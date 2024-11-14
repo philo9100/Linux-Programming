@@ -1,0 +1,7 @@
+#!/bin/sh
+#定义一个变量并初始化
+data="first shell script"
+#输出变量
+echo "data is:"
+echo $data
+exit 0

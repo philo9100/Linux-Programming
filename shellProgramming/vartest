@@ -1,0 +1,22 @@
+#!/bin/sh
+var="hello itheima"
+echo $var 
+echo "$var"
+echo '$var'
+
+echo $var
+echo ${var}
+echo “变量长度是:”${#var}
+echo ${var:5}
+echo ${var:-1:7}
+
+
+
+
+
+
+
+
+
+
+exit 0

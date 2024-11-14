@@ -1,0 +1,2167 @@
+Clone (3pm)          - recursively copy Perl datatypes
+Dpkg (3perl)         - module with core variables
+FD_CLR (3)           - synchronous I/O multiplexing
+FD_ISSET (3)         - synchronous I/O multiplexing
+FD_SET (3)           - synchronous I/O multiplexing
+FD_ZERO (3)          - synchronous I/O multiplexing
+NAN (3)              - floating-point constants
+URI (3pm)            - Uniform Resource Identifiers (absolute and relative)
+__after_morecore_hook (3) - malloc debugging variables
+__fbufsize (3)       - interfaces to stdio FILE structure
+__flbf (3)           - interfaces to stdio FILE structure
+__fpending (3)       - interfaces to stdio FILE structure
+__fpurge (3)         - purge a stream
+__freadable (3)      - interfaces to stdio FILE structure
+__freading (3)       - interfaces to stdio FILE structure
+__free_hook (3)      - malloc debugging variables
+__fsetlocking (3)    - interfaces to stdio FILE structure
+__fwritable (3)      - interfaces to stdio FILE structure
+__fwriting (3)       - interfaces to stdio FILE structure
+__malloc_hook (3)    - malloc debugging variables
+__malloc_initialize_hook (3) - malloc debugging variables
+__memalign_hook (3)  - malloc debugging variables
+__ppc_get_timebase (3) - get the current value of the Time Base Register on Power architecture and its frequency.
+__ppc_get_timebase_freq (3) - get the current value of the Time Base Register on Power architecture and its frequency.
+__ppc_mdoio (3)      - Hint the processor to release shared resources
+__ppc_mdoom (3)      - Hint the processor to release shared resources
+__ppc_set_ppr_low (3) - Set the Program Priority Register
+__ppc_set_ppr_med (3) - Set the Program Priority Register
+__ppc_set_ppr_med_high (3) - Set the Program Priority Register
+__ppc_set_ppr_med_low (3) - Set the Program Priority Register
+__ppc_set_ppr_very_low (3) - Set the Program Priority Register
+__ppc_yield (3)      - Hint the processor to release shared resources
+__realloc_hook (3)   - malloc debugging variables
+__setfpucw (3)       - set FPU control word on i386 architecture (obsolete)
+_flushlbf (3)        - interfaces to stdio FILE structure
+a64l (3)             - convert between long and base-64
+abort (3)            - cause abnormal process termination
+abs (3)              - compute the absolute value of an integer
+acos (3)             - arc cosine function
+acosf (3)            - arc cosine function
+acosh (3)            - inverse hyperbolic cosine function
+acoshf (3)           - inverse hyperbolic cosine function
+acoshl (3)           - inverse hyperbolic cosine function
+acosl (3)            - arc cosine function
+addmntent (3)        - get filesystem descriptor file entry
+addseverity (3)      - introduce new severity classes
+adjtime (3)          - correct the time to synchronize the system clock
+aio_cancel (3)       - cancel an outstanding asynchronous I/O request
+aio_error (3)        - get error status of asynchronous I/O operation
+aio_fsync (3)        - asynchronous file synchronization
+aio_init (3)         - asynchronous I/O initialization
+aio_read (3)         - asynchronous read
+aio_return (3)       - get return status of asynchronous I/O operation
+aio_suspend (3)      - wait for asynchronous I/O operation or timeout
+aio_write (3)        - asynchronous write
+Algorithm::Diff (3pm) - Compute `intelligent' differences between two files / lists
+Algorithm::Diff::XS (3pm) - Algorithm::Diff with XS core loop
+Algorithm::DiffOld (3pm) - Compute `intelligent' differences between two files / lists but use the old (<=0.59) interface.
+Algorithm::Merge (3pm) - Three-way merge and diff
+Alien::Package (3pm) - an object that represents a package
+Alien::Package::Deb (3pm) - an object that represents a deb package
+Alien::Package::Lsb (3pm) - an object that represents a lsb package
+Alien::Package::Pkg (3pm) - an object that represents a Solaris pkg package
+Alien::Package::Rpm (3pm) - an object that represents a rpm package
+Alien::Package::Slp (3pm) - an object that represents a slp package
+Alien::Package::Tgz (3pm) - an object that represents a tgz package
+aligned_alloc (3)    - allocate aligned memory
+alloca (3)           - allocate memory that is automatically freed
+alphasort (3)        - scan a directory for matching entries
+AptPkg (3pm)         - interface to libapt-pkg
+AptPkg::Cache (3pm)  - APT package cache interface
+AptPkg::Config (3pm) - APT configuration interface
+AptPkg::hash (3pm)   - a helper class for implementing tied hashes
+AptPkg::PkgRecords (3pm) - APT package description class
+AptPkg::Policy (3pm) - APT package version policy class
+AptPkg::Source (3pm) - APT source package interface
+AptPkg::System (3pm) - APT system abstraction class
+AptPkg::Version (3pm) - APT package versioning class
+Archive::Cpio (3pm)  - module for manipulations of cpio archives
+Archive::Zip (3pm)   - Provide an interface to ZIP archive files.
+Archive::Zip::FAQ (3pm) - Answers to a few frequently asked questions about Archive::Zip
+Archive::Zip::MemberRead (3pm) - A wrapper that lets you read Zip archive members as if they were files.
+Archive::Zip::Tree (3pm) - (DEPRECATED) methods for adding/extracting trees using Archive::Zip
+argz (3)             - functions to handle an argz list
+argz_add (3)         - functions to handle an argz list
+argz_add_sep (3)     - functions to handle an argz list
+argz_append (3)      - functions to handle an argz list
+argz_count (3)       - functions to handle an argz list
+argz_create (3)      - functions to handle an argz list
+argz_create_sep (3)  - functions to handle an argz list
+argz_delete (3)      - functions to handle an argz list
+argz_extract (3)     - functions to handle an argz list
+argz_insert (3)      - functions to handle an argz list
+argz_next (3)        - functions to handle an argz list
+argz_replace (3)     - functions to handle an argz list
+argz_stringify (3)   - functions to handle an argz list
+asctime (3)          - transform date and time to broken-down time or ASCII
+asctime_r (3)        - transform date and time to broken-down time or ASCII
+asin (3)             - arc sine function
+asinf (3)            - arc sine function
+asinh (3)            - inverse hyperbolic sine function
+asinhf (3)           - inverse hyperbolic sine function
+asinhl (3)           - inverse hyperbolic sine function
+asinl (3)            - arc sine function
+asprintf (3)         - print to allocated string
+assert (3)           - abort the program if assertion is false
+assert_perror (3)    - test errnum and abort
+atan (3)             - arc tangent function
+atan2 (3)            - arc tangent function of two variables
+atan2f (3)           - arc tangent function of two variables
+atan2l (3)           - arc tangent function of two variables
+atanf (3)            - arc tangent function
+atanh (3)            - inverse hyperbolic tangent function
+atanhf (3)           - inverse hyperbolic tangent function
+atanhl (3)           - inverse hyperbolic tangent function
+atanl (3)            - arc tangent function
+atexit (3)           - register a function to be called at normal process termination
+atof (3)             - convert a string to a double
+atoi (3)             - convert a string to an integer
+atol (3)             - convert a string to an integer
+atoll (3)            - convert a string to an integer
+atoq (3)             - convert a string to an integer
+auth_destroy (3)     - library routines for remote procedure calls
+Authen::SASL (3pm)   - SASL Authentication framework
+Authen::SASL::Perl (3pm) - - Perl implementation of the SASL Authentication framework
+Authen::SASL::Perl::ANONYMOUS (3pm) - Anonymous Authentication class
+Authen::SASL::Perl::CRAM_MD5 (3pm) - CRAM MD5 Authentication class
+Authen::SASL::Perl::DIGEST_MD5 (3pm) - Digest MD5 Authentication class
+Authen::SASL::Perl::EXTERNAL (3pm) - External Authentication class
+Authen::SASL::Perl::GSSAPI (3pm) - GSSAPI (Kerberosv5) Authentication class
+Authen::SASL::Perl::LOGIN (3pm) - Login Authentication class
+Authen::SASL::Perl::PLAIN (3pm) - Plain Login Authentication class
+authnone_create (3)  - library routines for remote procedure calls
+authunix_create (3)  - library routines for remote procedure calls
+authunix_create_default (3) - library routines for remote procedure calls
+backtrace (3)        - support for application self-debugging
+backtrace_symbols (3) - support for application self-debugging
+backtrace_symbols_fd (3) - support for application self-debugging
+basename (3)         - parse pathname components
+bcmp (3)             - compare byte sequences
+bcopy (3)            - copy byte sequence
+be16toh (3)          - convert values between host and big-/little-endian byte order
+be32toh (3)          - convert values between host and big-/little-endian byte order
+be64toh (3)          - convert values between host and big-/little-endian byte order
+bind_textdomain_codeset (3) - set encoding of message translations
+bindresvport (3)     - bind a socket to a privileged IP port
+bindtextdomain (3)   - set directory containing message catalogs
+bsd_signal (3)       - signal handling with BSD semantics
+bsearch (3)          - binary search of a sorted array
+bstring (3)          - byte string operations
+bswap (3)            - reverse order of bytes
+bswap_16 (3)         - reverse order of bytes
+bswap_32 (3)         - reverse order of bytes
+bswap_64 (3)         - reverse order of bytes
+btowc (3)            - convert single byte to wide character
+btree (3)            - btree database access method
+byteorder (3)        - convert values between host and network byte order
+bzero (3)            - zero a byte string
+cabs (3)             - absolute value of a complex number
+cabsf (3)            - absolute value of a complex number
+cabsl (3)            - absolute value of a complex number
+cacos (3)            - complex arc cosine
+cacosf (3)           - complex arc cosine
+cacosh (3)           - complex arc hyperbolic cosine
+cacoshf (3)          - complex arc hyperbolic cosine
+cacoshl (3)          - complex arc hyperbolic cosine
+cacosl (3)           - complex arc cosine
+Cairo (3pm)          - Perl interface to the cairo 2d vector graphics library
+Cairo::GObject (3pm) - Integrate Cairo into the Glib type system
+calloc (3)           - allocate and free dynamic memory
+callrpc (3)          - library routines for remote procedure calls
+canonicalize_file_name (3) - return the canonicalized absolute pathname
+carg (3)             - calculate the complex argument
+cargf (3)            - calculate the complex argument
+cargl (3)            - calculate the complex argument
+casin (3)            - complex arc sine
+casinf (3)           - complex arc sine
+casinh (3)           - complex arc sine hyperbolic
+casinhf (3)          - complex arc sine hyperbolic
+casinhl (3)          - complex arc sine hyperbolic
+casinl (3)           - complex arc sine
+catan (3)            - complex arc tangents
+catanf (3)           - complex arc tangents
+catanh (3)           - complex arc tangents hyperbolic
+catanhf (3)          - complex arc tangents hyperbolic
+catanhl (3)          - complex arc tangents hyperbolic
+catanl (3)           - complex arc tangents
+catclose (3)         - open/close a message catalog
+catgets (3)          - get message from a message catalog
+catopen (3)          - open/close a message catalog
+cbc_crypt (3)        - fast DES encryption
+cbrt (3)             - cube root function
+cbrtf (3)            - cube root function
+cbrtl (3)            - cube root function
+ccos (3)             - complex cosine function
+ccosf (3)            - complex cosine function
+ccosh (3)            - complex hyperbolic cosine
+ccoshf (3)           - complex hyperbolic cosine
+ccoshl (3)           - complex hyperbolic cosine
+ccosl (3)            - complex cosine function
+ceil (3)             - ceiling function: smallest integral value not less than argument
+ceilf (3)            - ceiling function: smallest integral value not less than argument
+ceill (3)            - ceiling function: smallest integral value not less than argument
+cexp (3)             - complex exponential function
+cexp2 (3)            - base-2 exponent of a complex number
+cexp2f (3)           - base-2 exponent of a complex number
+cexp2l (3)           - base-2 exponent of a complex number
+cexpf (3)            - complex exponential function
+cexpl (3)            - complex exponential function
+cfgetispeed (3)      - get and set terminal attributes, line control, get and set baud rate
+cfgetospeed (3)      - get and set terminal attributes, line control, get and set baud rate
+cfmakeraw (3)        - get and set terminal attributes, line control, get and set baud rate
+cfree (3)            - free allocated memory
+cfsetispeed (3)      - get and set terminal attributes, line control, get and set baud rate
+cfsetospeed (3)      - get and set terminal attributes, line control, get and set baud rate
+cfsetspeed (3)       - get and set terminal attributes, line control, get and set baud rate
+CGI (3pm)            - Handle Common Gateway Interface requests and responses
+CGI::Carp (3pm)      - CGI routines for writing to the HTTPD (or other) error log
+CGI::Cookie (3pm)    - Interface to HTTP Cookies
+CGI::Fast (3pm)      - CGI Interface for Fast CGI
+CGI::HTML::Functions (3pm) - Documentation for CGI.pm Legacy HTML Functionality
+CGI::Pretty (3pm)    - module to produce nicely formatted HTML code
+CGI::Push (3pm)      - Simple Interface to Server Push
+CGI::Util (3pm)      - Internal utilities used by CGI module
+cimag (3)            - get imaginary part of a complex number
+cimagf (3)           - get imaginary part of a complex number
+cimagl (3)           - get imaginary part of a complex number
+CIRCLEQ_ENTRY (3)    - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_HEAD (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_INIT (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_INSERT_AFTER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_INSERT_BEFORE (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_INSERT_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_INSERT_TAIL (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+CIRCLEQ_REMOVE (3)   - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+Class::Accessor (3pm) - Automated accessor generation
+Class::Accessor::Fast (3pm) - Faster, but less expandable, accessors
+Class::Accessor::Faster (3pm) - Even faster, but less expandable, accessors
+clearenv (3)         - clear the environment
+clearerr (3)         - check and reset stream status
+clearerr_unlocked (3) - nonlocking stdio functions
+clnt_broadcast (3)   - library routines for remote procedure calls
+clnt_call (3)        - library routines for remote procedure calls
+clnt_control (3)     - library routines for remote procedure calls
+clnt_create (3)      - library routines for remote procedure calls
+clnt_destroy (3)     - library routines for remote procedure calls
+clnt_freeres (3)     - library routines for remote procedure calls
+clnt_geterr (3)      - library routines for remote procedure calls
+clnt_pcreateerror (3) - library routines for remote procedure calls
+clnt_perrno (3)      - library routines for remote procedure calls
+clnt_perror (3)      - library routines for remote procedure calls
+clnt_spcreateerror (3) - library routines for remote procedure calls
+clnt_sperrno (3)     - library routines for remote procedure calls
+clnt_sperror (3)     - library routines for remote procedure calls
+clntraw_create (3)   - library routines for remote procedure calls
+clnttcp_create (3)   - library routines for remote procedure calls
+clntudp_bufcreate (3) - library routines for remote procedure calls
+clntudp_create (3)   - library routines for remote procedure calls
+clock (3)            - determine processor time
+clock_getcpuclockid (3) - obtain ID of a process CPU-time clock
+clock_getres (3)     - clock and time functions
+clock_gettime (3)    - clock and time functions
+clock_settime (3)    - clock and time functions
+clog (3)             - natural logarithm of a complex number
+clog10 (3)           - base-10 logarithm of a complex number
+clog10f (3)          - base-10 logarithm of a complex number
+clog10l (3)          - base-10 logarithm of a complex number
+clog2 (3)            - base-2 logarithm of a complex number
+clog2f (3)           - base-2 logarithm of a complex number
+clog2l (3)           - base-2 logarithm of a complex number
+clogf (3)            - natural logarithm of a complex number
+clogl (3)            - natural logarithm of a complex number
+closedir (3)         - close a directory
+closelog (3)         - send messages to the system logger
+openproc (3)         - initialize process information from /proc/
+cmsg (3)             - access ancillary data
+CMSG_ALIGN (3)       - access ancillary data
+CMSG_DATA (3)        - access ancillary data
+CMSG_FIRSTHDR (3)    - access ancillary data
+CMSG_LEN (3)         - access ancillary data
+CMSG_NXTHDR (3)      - access ancillary data
+CMSG_SPACE (3)       - access ancillary data
+confstr (3)          - get configuration dependent string variables
+conj (3)             - calculate the complex conjugate
+conjf (3)            - calculate the complex conjugate
+conjl (3)            - calculate the complex conjugate
+copysign (3)         - copy sign of a number
+copysignf (3)        - copy sign of a number
+copysignl (3)        - copy sign of a number
+cos (3)              - cosine function
+cosf (3)             - cosine function
+cosh (3)             - hyperbolic cosine function
+coshf (3)            - hyperbolic cosine function
+coshl (3)            - hyperbolic cosine function
+cosl (3)             - cosine function
+cpow (3)             - complex power function
+cpowf (3)            - complex power function
+cpowl (3)            - complex power function
+cproj (3)            - project into Riemann Sphere
+cprojf (3)           - project into Riemann Sphere
+cprojl (3)           - project into Riemann Sphere
+CPU_ALLOC (3)        - macros for manipulating CPU sets
+CPU_ALLOC_SIZE (3)   - macros for manipulating CPU sets
+CPU_AND (3)          - macros for manipulating CPU sets
+CPU_AND_S (3)        - macros for manipulating CPU sets
+CPU_CLR (3)          - macros for manipulating CPU sets
+CPU_CLR_S (3)        - macros for manipulating CPU sets
+CPU_COUNT (3)        - macros for manipulating CPU sets
+CPU_COUNT_S (3)      - macros for manipulating CPU sets
+CPU_EQUAL (3)        - macros for manipulating CPU sets
+CPU_EQUAL_S (3)      - macros for manipulating CPU sets
+CPU_FREE (3)         - macros for manipulating CPU sets
+CPU_ISSET (3)        - macros for manipulating CPU sets
+CPU_ISSET_S (3)      - macros for manipulating CPU sets
+CPU_OR (3)           - macros for manipulating CPU sets
+CPU_OR_S (3)         - macros for manipulating CPU sets
+CPU_SET (3)          - macros for manipulating CPU sets
+CPU_SET_S (3)        - macros for manipulating CPU sets
+CPU_XOR (3)          - macros for manipulating CPU sets
+CPU_XOR_S (3)        - macros for manipulating CPU sets
+CPU_ZERO (3)         - macros for manipulating CPU sets
+CPU_ZERO_S (3)       - macros for manipulating CPU sets
+creal (3)            - get real part of a complex number
+crealf (3)           - get real part of a complex number
+creall (3)           - get real part of a complex number
+crypt (3)            - password and data encryption
+crypt_r (3)          - password and data encryption
+csin (3)             - complex sine function
+csinf (3)            - complex sine function
+csinh (3)            - complex hyperbolic sine
+csinhf (3)           - complex hyperbolic sine
+csinhl (3)           - complex hyperbolic sine
+csinl (3)            - complex sine function
+csqrt (3)            - complex square root
+csqrtf (3)           - complex square root
+csqrtl (3)           - complex square root
+ctan (3)             - complex tangent function
+ctanf (3)            - complex tangent function
+ctanh (3)            - complex hyperbolic tangent
+ctanhf (3)           - complex hyperbolic tangent
+ctanhl (3)           - complex hyperbolic tangent
+ctanl (3)            - complex tangent function
+ctermid (3)          - get controlling terminal name
+ctime (3)            - transform date and time to broken-down time or ASCII
+ctime_r (3)          - transform date and time to broken-down time or ASCII
+cuserid (3)          - get username
+daemon (3)           - run in the background
+Data::Dump (3pm)     - Pretty printing of data structures
+Data::Dump::Filtered (3pm) - Pretty printing with filtering
+Data::Dump::Trace (3pm) - Helpers to trace function and method calls
+Date::Format (3pm)   - Date formating subroutines
+Date::Language (3pm) - Language specific date formating and parsing
+Date::Language::Bulgarian (3pm) - localization for Date::Format
+Date::Language::Hungarian (3pm) - Magyar format for Date::Format
+Date::Parse (3pm)    - Parse date strings into time values
+daylight (3)         - initialize time conversion information
+db (3)               - database access methods
+dbopen (3)           - database access methods
+dcgettext (3)        - translate message
+dcngettext (3)       - translate message and choose plural form
+Debian::DictionariesCommon (3pm) - dictionaries-common library
+DebianNet (3pm)      - create, remove, enable or disable entry in /etc/inetd.conf
+des_crypt (3)        - fast DES encryption
+DES_FAILED (3)       - fast DES encryption
+des_setparity (3)    - fast DES encryption
+dgettext (3)         - translate message
+difftime (3)         - calculate time difference
+Digest::HMAC (3pm)   - Keyed-Hashing for Message Authentication
+Digest::HMAC_MD5 (3pm) - Keyed-Hashing for Message Authentication
+Digest::HMAC_SHA1 (3pm) - Keyed-Hashing for Message Authentication
+dirfd (3)            - get directory stream file descriptor
+dirname (3)          - parse pathname components
+div (3)              - compute quotient and remainder of an integer division
+dl_iterate_phdr (3)  - walk through list of shared objects
+dladdr (3)           - translate address to symbolic information
+dladdr1 (3)          - translate address to symbolic information
+dlclose (3)          - open and close a shared object
+dlerror (3)          - obtain error diagnostic for functions in the dlopen API
+dlinfo (3)           - obtain information about a dynamically loaded object
+dlmopen (3)          - open and close a shared object
+dlopen (3)           - open and close a shared object
+dlsym (3)            - obtain address of a symbol in a shared object or executable
+dlvsym (3)           - obtain address of a symbol in a shared object or executable
+dn_comp (3)          - resolver routines
+dn_expand (3)        - resolver routines
+dngettext (3)        - translate message and choose plural form
+Dpkg::Arch (3perl)   - handle architectures
+Dpkg::Build::Env (3perl) - track build environment
+Dpkg::Build::Info (3perl) - handle build information
+Dpkg::Build::Types (3perl) - track build types
+Dpkg::BuildFlags (3perl) - query build flags
+Dpkg::BuildOptions (3perl) - parse and update build options
+Dpkg::BuildProfiles (3perl) - handle build profiles
+Dpkg::Changelog (3perl) - base class to implement a changelog parser
+Dpkg::Changelog::Debian (3perl) - parse Debian changelogs
+Dpkg::Changelog::Entry (3perl) - represents a changelog entry
+Dpkg::Changelog::Entry::Debian (3perl) - represents a Debian changelog entry
+Dpkg::Changelog::Parse (3perl) - generic changelog parser for dpkg-parsechangelog
+Dpkg::Checksums (3perl) - generate and manipulate file checksums
+Dpkg::Compression (3perl) - simple database of available compression methods
+Dpkg::Compression::FileHandle (3perl) - object dealing transparently with file compression
+Dpkg::Compression::Process (3perl) - run compression/decompression processes
+Dpkg::Conf (3perl)   - parse dpkg configuration files
+Dpkg::Control (3perl) - parse and manipulate official control-like information
+Dpkg::Control::Changelog (3perl) - represent info fields output by dpkg-parsechangelog
+Dpkg::Control::Fields (3perl) - manage (list of official) control fields
+Dpkg::Control::FieldsCore (3perl) - manage (list of official) control fields
+Dpkg::Control::Hash (3perl) - parse and manipulate a block of RFC822-like fields
+Dpkg::Control::HashCore (3perl) - parse and manipulate a block of RFC822-like fields
+Dpkg::Control::Info (3perl) - parse files like debian/control
+Dpkg::Control::Tests (3perl) - parse files like debian/tests/control
+Dpkg::Control::Tests::Entry (3perl) - represents a test suite entry
+Dpkg::Control::Types (3perl) - export CTRL_* constants
+Dpkg::Deps (3perl)   - parse and manipulate dependencies of Debian packages
+Dpkg::Exit (3perl)   - program exit handlers
+Dpkg::Gettext (3perl) - convenience wrapper around Locale::gettext
+Dpkg::Index (3perl)  - generic index of control information
+Dpkg::Interface::Storable (3perl) - common methods related to object serialization
+Dpkg::IPC (3perl)    - helper functions for IPC
+Dpkg::Path (3perl)   - some common path handling functions
+Dpkg::Source::Package (3perl) - manipulate Debian source packages
+Dpkg::Substvars (3perl) - handle variable substitution in strings
+Dpkg::Vendor (3perl) - get access to some vendor specific information
+Dpkg::Vendor::Debian (3perl) - Debian vendor object
+Dpkg::Vendor::Default (3perl) - default vendor object
+Dpkg::Vendor::Ubuntu (3perl) - Ubuntu vendor object
+Dpkg::Version (3perl) - handling and comparing dpkg-style version numbers
+dprintf (3)          - formatted output conversion
+drand48 (3)          - generate uniformly distributed pseudo-random numbers
+drand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+drem (3)             - floating-point remainder function
+dremf (3)            - floating-point remainder function
+dreml (3)            - floating-point remainder function
+duplocale (3)        - duplicate a locale object
+dysize (3)           - get number of days for a given year
+eaccess (3)          - check effective user's permissions for a file
+ecb_crypt (3)        - fast DES encryption
+ecvt (3)             - convert a floating-point number to a string
+ecvt_r (3)           - convert a floating-point number to a string
+edata (3)            - end of program segments
+Email::Valid (3pm)   - Check validity of Internet email addresses
+Encode::Locale (3pm) - Determine the locale encoding
+encrypt (3)          - encrypt 64-bit messages
+encrypt_r (3)        - encrypt 64-bit messages
+end (3)              - end of program segments
+endaliasent (3)      - read an alias entry
+endfsent (3)         - handle fstab entries
+endgrent (3)         - get group file entry
+endhostent (3)       - get network host entry
+endian (3)           - convert values between host and big-/little-endian byte order
+endmntent (3)        - get filesystem descriptor file entry
+endnetent (3)        - get network entry
+endnetgrent (3)      - handle network group entries
+endprotoent (3)      - get protocol entry
+endpwent (3)         - get password file entry
+endrpcent (3)        - get RPC entry
+endservent (3)       - get service entry
+endspent (3)         - get shadow password file entry
+endttyent (3)        - get ttys file entry
+endusershell (3)     - get permitted user shells
+endutent (3)         - access utmp file entries
+endutxent (3)        - access utmp file entries
+envz (3)             - environment string support
+envz_add (3)         - environment string support
+envz_entry (3)       - environment string support
+envz_get (3)         - environment string support
+envz_merge (3)       - environment string support
+envz_remove (3)      - environment string support
+envz_strip (3)       - environment string support
+erand48 (3)          - generate uniformly distributed pseudo-random numbers
+erand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+erf (3)              - error function
+erfc (3)             - complementary error function
+erfcf (3)            - complementary error function
+erfcl (3)            - complementary error function
+erff (3)             - error function
+erfl (3)             - error function
+err (3)              - formatted error messages
+errno (3)            - number of last error
+error (3)            - glibc error reporting functions
+error_at_line (3)    - glibc error reporting functions
+error_message_count (3) - glibc error reporting functions
+error_one_per_line (3) - glibc error reporting functions
+error_print_progname (3) - glibc error reporting functions
+errx (3)             - formatted error messages
+etext (3)            - end of program segments
+ether_aton (3)       - Ethernet address manipulation routines
+ether_aton_r (3)     - Ethernet address manipulation routines
+ether_hostton (3)    - Ethernet address manipulation routines
+ether_line (3)       - Ethernet address manipulation routines
+ether_ntoa (3)       - Ethernet address manipulation routines
+ether_ntoa_r (3)     - Ethernet address manipulation routines
+ether_ntohost (3)    - Ethernet address manipulation routines
+euidaccess (3)       - check effective user's permissions for a file
+eventfd_read (3)     - create a file descriptor for event notification
+eventfd_write (3)    - create a file descriptor for event notification
+exec (3)             - execute a file
+execl (3)            - execute a file
+execle (3)           - execute a file
+execlp (3)           - execute a file
+execv (3)            - execute a file
+execvp (3)           - execute a file
+execvpe (3)          - execute a file
+exit (3)             - cause normal process termination
+exp (3)              - base-e exponential function
+exp10 (3)            - base-10 exponential function
+exp10f (3)           - base-10 exponential function
+exp10l (3)           - base-10 exponential function
+exp2 (3)             - base-2 exponential function
+exp2f (3)            - base-2 exponential function
+exp2l (3)            - base-2 exponential function
+expf (3)             - base-e exponential function
+expl (3)             - base-e exponential function
+explicit_bzero (3)   - zero a byte string
+expm1 (3)            - exponential minus 1
+expm1f (3)           - exponential minus 1
+expm1l (3)           - exponential minus 1
+Exporter::Shiny (3pm) - shortcut for Exporter::Tiny
+Exporter::Tiny (3pm) - an exporter with the features of Sub::Exporter but only core dependencies
+Exporter::Tiny::Manual::Etc (3pm) - odds and ends
+Exporter::Tiny::Manual::Exporting (3pm) - creating an exporter using Exporter::Tiny
+Exporter::Tiny::Manual::Importing (3pm) - importing from Exporter::Tiny-based modules
+Exporter::Tiny::Manual::QuickStart (3pm) - the quickest way to get up and running with Exporter::Tiny
+fabs (3)             - absolute value of floating-point number
+fabsf (3)            - absolute value of floating-point number
+fabsl (3)            - absolute value of floating-point number
+FCGI (3pm)           - Fast CGI module
+fclose (3)           - close a stream
+fcloseall (3)        - close all open streams
+fcvt (3)             - convert a floating-point number to a string
+fcvt_r (3)           - convert a floating-point number to a string
+fdim (3)             - positive difference
+fdimf (3)            - positive difference
+fdiml (3)            - positive difference
+fdopen (3)           - stream open functions
+fdopendir (3)        - open a directory
+feclearexcept (3)    - floating-point rounding and exception handling
+fedisableexcept (3)  - floating-point rounding and exception handling
+feenableexcept (3)   - floating-point rounding and exception handling
+fegetenv (3)         - floating-point rounding and exception handling
+fegetexcept (3)      - floating-point rounding and exception handling
+fegetexceptflag (3)  - floating-point rounding and exception handling
+fegetround (3)       - floating-point rounding and exception handling
+feholdexcept (3)     - floating-point rounding and exception handling
+fenv (3)             - floating-point rounding and exception handling
+feof (3)             - check and reset stream status
+feof_unlocked (3)    - nonlocking stdio functions
+feraiseexcept (3)    - floating-point rounding and exception handling
+ferror (3)           - check and reset stream status
+ferror_unlocked (3)  - nonlocking stdio functions
+fesetenv (3)         - floating-point rounding and exception handling
+fesetexceptflag (3)  - floating-point rounding and exception handling
+fesetround (3)       - floating-point rounding and exception handling
+fetestexcept (3)     - floating-point rounding and exception handling
+feupdateenv (3)      - floating-point rounding and exception handling
+fexecve (3)          - execute program specified via file descriptor
+fflush (3)           - flush a stream
+fflush_unlocked (3)  - nonlocking stdio functions
+ffs (3)              - find first bit set in a word
+ffsl (3)             - find first bit set in a word
+ffsll (3)            - find first bit set in a word
+fgetc (3)            - input of characters and strings
+fgetc_unlocked (3)   - nonlocking stdio functions
+fgetgrent (3)        - get group file entry
+fgetgrent_r (3)      - get group file entry reentrantly
+fgetpos (3)          - reposition a stream
+fgetpwent (3)        - get password file entry
+fgetpwent_r (3)      - get passwd file entry reentrantly
+fgets (3)            - input of characters and strings
+fgets_unlocked (3)   - nonlocking stdio functions
+fgetspent (3)        - get shadow password file entry
+fgetspent_r (3)      - get shadow password file entry
+fgetwc (3)           - read a wide character from a FILE stream
+fgetwc_unlocked (3)  - nonlocking stdio functions
+fgetws (3)           - read a wide-character string from a FILE stream
+fgetws_unlocked (3)  - nonlocking stdio functions
+File::BaseDir (3pm)  - Use the Freedesktop.org base directory specification
+File::Copy::Recursive (3pm) - Perl extension for recursively copying files and directories
+File::DesktopEntry (3pm) - Object to handle .desktop files
+File::FcntlLock (3pm) - File locking with fcntl(2)
+File::FcntlLock::Inline (3pm) - File locking with fcntl(2)
+File::FcntlLock::Pure (3pm) - File locking with fcntl(2)
+File::FcntlLock::XS (3pm) - File locking with fcntl(2)
+File::IconTheme (3pm) - find icon directories
+File::Listing (3pm)  - parse directory listing
+File::MimeInfo (3pm) - Determine file type from the file name
+File::MimeInfo::Applications (3pm) - Find programs to open a file by mimetype
+File::MimeInfo::Cookbook (3pm) - various code snippets
+File::MimeInfo::Magic (3pm) - Determine file type with magic
+File::MimeInfo::Rox (3pm) - Open files by mimetype "Rox style"
+File::UserDirs (3pm) - find extra media and documents directories
+fileno (3)           - check and reset stream status
+fileno_unlocked (3)  - nonlocking stdio functions
+finite (3)           - BSD floating-point classification functions
+finitef (3)          - BSD floating-point classification functions
+finitel (3)          - BSD floating-point classification functions
+flockfile (3)        - lock FILE for stdio
+floor (3)            - largest integral value not greater than argument
+floorf (3)           - largest integral value not greater than argument
+floorl (3)           - largest integral value not greater than argument
+fma (3)              - floating-point multiply and add
+fmaf (3)             - floating-point multiply and add
+fmal (3)             - floating-point multiply and add
+fmax (3)             - determine maximum of two floating-point numbers
+fmaxf (3)            - determine maximum of two floating-point numbers
+fmaxl (3)            - determine maximum of two floating-point numbers
+fmemopen (3)         - open memory as stream
+fmin (3)             - determine minimum of two floating-point numbers
+fminf (3)            - determine minimum of two floating-point numbers
+fminl (3)            - determine minimum of two floating-point numbers
+fmod (3)             - floating-point remainder function
+fmodf (3)            - floating-point remainder function
+fmodl (3)            - floating-point remainder function
+fmtmsg (3)           - print formatted error messages
+fnmatch (3)          - match filename or pathname
+Font::AFM (3pm)      - Interface to Adobe Font Metrics files
+fopen (3)            - stream open functions
+fopencookie (3)      - opening a custom stream
+forkpty (3)          - terminal utility functions
+fpathconf (3)        - get configuration values for files
+fpclassify (3)       - floating-point classification macros
+fprintf (3)          - formatted output conversion
+fpurge (3)           - purge a stream
+fputc (3)            - output of characters and strings
+fputc_unlocked (3)   - nonlocking stdio functions
+fputs (3)            - output of characters and strings
+fputs_unlocked (3)   - nonlocking stdio functions
+fputwc (3)           - write a wide character to a FILE stream
+fputwc_unlocked (3)  - nonlocking stdio functions
+fputws (3)           - write a wide-character string to a FILE stream
+fputws_unlocked (3)  - nonlocking stdio functions
+fread (3)            - binary stream input/output
+fread_unlocked (3)   - nonlocking stdio functions
+free (3)             - allocate and free dynamic memory
+freeaddrinfo (3)     - network address and service translation
+freehostent (3)      - get network hostnames and addresses
+freeifaddrs (3)      - get interface addresses
+freelocale (3)       - create, modify, and free a locale object
+readproc (3)         - read information from next /proc/## entry
+readproctab (3)      - read information for all current processes at once
+freopen (3)          - stream open functions
+frexp (3)            - convert floating-point number to fractional and integral components
+frexpf (3)           - convert floating-point number to fractional and integral components
+frexpl (3)           - convert floating-point number to fractional and integral components
+fscanf (3)           - input format conversion
+fseek (3)            - reposition a stream
+fseeko (3)           - seek to or report file position
+fsetpos (3)          - reposition a stream
+fstatvfs (3)         - get filesystem statistics
+ftell (3)            - reposition a stream
+ftello (3)           - seek to or report file position
+ftime (3)            - return date and time
+ftok (3)             - convert a pathname and a project identifier to a System V IPC key
+ftrylockfile (3)     - lock FILE for stdio
+fts (3)              - traverse a file hierarchy
+fts_children (3)     - traverse a file hierarchy
+fts_close (3)        - traverse a file hierarchy
+fts_open (3)         - traverse a file hierarchy
+fts_read (3)         - traverse a file hierarchy
+fts_set (3)          - traverse a file hierarchy
+ftw (3)              - file tree walk
+funlockfile (3)      - lock FILE for stdio
+futimens (3)         - change file timestamps with nanosecond precision
+futimes (3)          - change file timestamps
+fwide (3)            - set and determine the orientation of a FILE stream
+fwprintf (3)         - formatted wide-character output conversion
+fwrite (3)           - binary stream input/output
+fwrite_unlocked (3)  - nonlocking stdio functions
+gai_cancel (3)       - asynchronous network address and service translation
+gai_error (3)        - asynchronous network address and service translation
+gai_strerror (3)     - network address and service translation
+gai_suspend (3)      - asynchronous network address and service translation
+gamma (3)            - (logarithm of the) gamma function
+gammaf (3)           - (logarithm of the) gamma function
+gammal (3)           - (logarithm of the) gamma function
+gcvt (3)             - convert a floating-point number to a string
+get_avphys_pages (3) - get total and available physical page counts
+get_current_dir_name (3) - get current working directory
+get_myaddress (3)    - library routines for remote procedure calls
+get_nprocs (3)       - get number of processors
+get_nprocs_conf (3)  - get number of processors
+get_phys_pages (3)   - get total and available physical page counts
+getaddrinfo (3)      - network address and service translation
+getaddrinfo_a (3)    - asynchronous network address and service translation
+getaliasbyname (3)   - read an alias entry
+getaliasbyname_r (3) - read an alias entry
+getaliasent (3)      - read an alias entry
+getaliasent_r (3)    - read an alias entry
+getauxval (3)        - retrieve a value from the auxiliary vector
+getc (3)             - input of characters and strings
+getc_unlocked (3)    - nonlocking stdio functions
+getchar (3)          - input of characters and strings
+getchar_unlocked (3) - nonlocking stdio functions
+getcontext (3)       - get or set the user context
+getcwd (3)           - get current working directory
+getdate (3)          - convert a date-plus-time string to broken-down time
+getdate_err (3)      - convert a date-plus-time string to broken-down time
+getdate_r (3)        - convert a date-plus-time string to broken-down time
+getdelim (3)         - delimited string input
+getdirentries (3)    - get directory entries in a filesystem-independent format
+getdtablesize (3)    - get file descriptor table size
+getentropy (3)       - fill a buffer with random bytes
+getenv (3)           - get an environment variable
+getfsent (3)         - handle fstab entries
+getfsfile (3)        - handle fstab entries
+getfsspec (3)        - handle fstab entries
+getgrent (3)         - get group file entry
+getgrent_r (3)       - get group file entry reentrantly
+getgrgid (3)         - get group file entry
+getgrgid_r (3)       - get group file entry
+getgrnam (3)         - get group file entry
+getgrnam_r (3)       - get group file entry
+getgrouplist (3)     - get list of groups to which a user belongs
+gethostbyaddr (3)    - get network host entry
+gethostbyaddr_r (3)  - get network host entry
+gethostbyname (3)    - get network host entry
+gethostbyname2 (3)   - get network host entry
+gethostbyname2_r (3) - get network host entry
+gethostbyname_r (3)  - get network host entry
+gethostent (3)       - get network host entry
+gethostent_r (3)     - get network host entry
+gethostid (3)        - get or set the unique identifier of the current host
+getifaddrs (3)       - get interface addresses
+getipnodebyaddr (3)  - get network hostnames and addresses
+getipnodebyname (3)  - get network hostnames and addresses
+getline (3)          - delimited string input
+getloadavg (3)       - get system load averages
+getlogin (3)         - get username
+getlogin_r (3)       - get username
+getmntent (3)        - get filesystem descriptor file entry
+getmntent_r (3)      - get filesystem descriptor file entry
+getnameinfo (3)      - address-to-name translation in protocol-independent manner
+getnetbyaddr (3)     - get network entry
+getnetbyaddr_r (3)   - get network entry (reentrant)
+getnetbyname (3)     - get network entry
+getnetbyname_r (3)   - get network entry (reentrant)
+getnetent (3)        - get network entry
+getnetent_r (3)      - get network entry (reentrant)
+getnetgrent (3)      - handle network group entries
+getnetgrent_r (3)    - handle network group entries
+getopt (3)           - Parse command-line options
+getopt_long (3)      - Parse command-line options
+getopt_long_only (3) - Parse command-line options
+getpass (3)          - get a password
+getprotobyname (3)   - get protocol entry
+getprotobyname_r (3) - get protocol entry (reentrant)
+getprotobynumber (3) - get protocol entry
+getprotobynumber_r (3) - get protocol entry (reentrant)
+getprotoent (3)      - get protocol entry
+getprotoent_r (3)    - get protocol entry (reentrant)
+getpt (3)            - open the pseudoterminal master (PTM)
+getpw (3)            - reconstruct password line entry
+getpwent (3)         - get password file entry
+getpwent_r (3)       - get passwd file entry reentrantly
+getpwnam (3)         - get password file entry
+getpwnam_r (3)       - get password file entry
+getpwuid (3)         - get password file entry
+getpwuid_r (3)       - get password file entry
+getrpcbyname (3)     - get RPC entry
+getrpcbyname_r (3)   - get RPC entry (reentrant)
+getrpcbynumber (3)   - get RPC entry
+getrpcbynumber_r (3) - get RPC entry (reentrant)
+getrpcent (3)        - get RPC entry
+getrpcent_r (3)      - get RPC entry (reentrant)
+getrpcport (3)       - get RPC port number
+gets (3)             - get a string from standard input (DEPRECATED)
+getservbyname (3)    - get service entry
+getservbyname_r (3)  - get service entry (reentrant)
+getservbyport (3)    - get service entry
+getservbyport_r (3)  - get service entry (reentrant)
+getservent (3)       - get service entry
+getservent_r (3)     - get service entry (reentrant)
+getspent (3)         - get shadow password file entry
+getspent_r (3)       - get shadow password file entry
+getspnam (3)         - get shadow password file entry
+getspnam_r (3)       - get shadow password file entry
+getsubopt (3)        - parse suboption arguments from a string
+gettext (3)          - translate message
+getttyent (3)        - get ttys file entry
+getttynam (3)        - get ttys file entry
+getumask (3)         - get file creation mask
+getusershell (3)     - get permitted user shells
+getutent (3)         - access utmp file entries
+getutent_r (3)       - access utmp file entries
+getutid (3)          - access utmp file entries
+getutid_r (3)        - access utmp file entries
+getutline (3)        - access utmp file entries
+getutline_r (3)      - access utmp file entries
+getutmp (3)          - copy utmp structure to utmpx, and vice versa
+getutmpx (3)         - copy utmp structure to utmpx, and vice versa
+getutxent (3)        - access utmp file entries
+getutxid (3)         - access utmp file entries
+getutxline (3)       - access utmp file entries
+getw (3)             - input and output of words (ints)
+getwc (3)            - read a wide character from a FILE stream
+getwc_unlocked (3)   - nonlocking stdio functions
+getwchar (3)         - read a wide character from standard input
+getwchar_unlocked (3) - nonlocking stdio functions
+getwd (3)            - get current working directory
+Glib (3pm)           - Perl wrappers for the GLib utility and Object libraries
+Glib::BookmarkFile (3pm) - Parser for bookmark files
+Glib::Boxed (3pm)    - Generic wrappers for C structures
+Glib::Bytes (3pm)    - Wrappers for bytes objects in GLib
+Glib::CodeGen (3pm)  - code generation utilities for Glib-based bindings.
+Glib::devel (3pm)    - Binding developer's overview of Glib's internals
+Glib::Error (3pm)    - Exception Objects based on GError
+Glib::Flags (3pm)    - methods and overloaded operators for flags
+Glib::GenPod (3pm)   - POD generation utilities for Glib-based modules
+Glib::index (3pm)    - API Reference Pod Index
+Glib::KeyFile (3pm)  - Parser for .ini-like files
+Glib::Log (3pm)      - A flexible logging mechanism
+Glib::MainLoop (3pm) - An event source manager
+Glib::MakeHelper (3pm) - Makefile.PL utilities for Glib-based extensions
+Glib::Markup (3pm)   - markup handling functions
+Glib::Object (3pm)   - Bindings for GObject
+Glib::Object::Introspection (3pm) - Dynamically create Perl language bindings
+Glib::Object::Subclass (3pm) - register a perl class as a GObject class
+Glib::OptionContext (3pm) - defines options accepted by the commandline option parser
+Glib::OptionGroup (3pm) - group of options for command line option parsing
+Glib::Param::Boolean (3pm) - Wrapper for boolean parameters in GLib
+Glib::Param::Double (3pm) - Wrapper for double parameters in GLib
+Glib::Param::Enum (3pm) - Wrapper for enum parameters in GLib
+Glib::Param::Flags (3pm) - Wrapper for flag parameters in GLib
+Glib::Param::GType (3pm) - Wrapper for type parameters in GLib
+Glib::Param::Int (3pm) - Paramspecs for integer types
+Glib::Param::Int64 (3pm) - Wrapper for int64 parameters in GLib
+Glib::Param::String (3pm) - Wrapper for string parameters in GLib
+Glib::Param::UInt (3pm) - Wrapper for uint parameters in GLib
+Glib::Param::UInt64 (3pm) - Wrapper for uint64 parameters in GLib
+Glib::Param::Unichar (3pm) - Wrapper for unichar parameters in GLib
+Glib::ParamSpec (3pm) - encapsulates metadate needed to specify parameters
+Glib::ParseXSDoc (3pm) - Parse POD and XSub declarations from XS files.
+Glib::Signal (3pm)   - Object customization and general purpose notification
+Glib::Type (3pm)     - Utilities for dealing with the GLib Type system
+Glib::Utils (3pm)    - Miscellaneous utility functions
+Glib::Variant (3pm)  - strongly typed value datatype
+Glib::VariantType (3pm) - Utilities for dealing with the GVariant type system
+Glib::version (3pm)  - Library Versioning Utilities
+Glib::xsapi (3pm)    - internal API reference for GPerl.
+glob (3)             - find pathnames matching a pattern, free memory from glob()
+globfree (3)         - find pathnames matching a pattern, free memory from glob()
+gmtime (3)           - transform date and time to broken-down time or ASCII
+gmtime_r (3)         - transform date and time to broken-down time or ASCII
+gnu_dev_major (3)    - manage a device number
+gnu_dev_makedev (3)  - manage a device number
+gnu_dev_minor (3)    - manage a device number
+gnu_get_libc_release (3) - get glibc version and release
+gnu_get_libc_version (3) - get glibc version and release
+grantpt (3)          - grant access to the slave pseudoterminal
+group_member (3)     - test whether a process is in a group
+gsignal (3)          - software signal facility
+Gtk3 (3pm)           - Perl interface to the 3.x series of the gtk+ toolkit
+h_errno (3)          - get network host entry
+hash (3)             - hash database access method
+hasmntopt (3)        - get filesystem descriptor file entry
+hcreate (3)          - hash table management
+hcreate_r (3)        - hash table management
+hdestroy (3)         - hash table management
+hdestroy_r (3)       - hash table management
+herror (3)           - get network host entry
+history (3readline)  - GNU History Library
+hsearch (3)          - hash table management
+hsearch_r (3)        - hash table management
+hstrerror (3)        - get network host entry
+HTML::AsSubs (3pm)   - functions that construct a HTML syntax tree
+HTML::Element (3pm)  - Class for objects that represent HTML elements
+HTML::Element::traverse (3pm) - discussion of HTML::Element's traverse method
+HTML::Entities (3pm) - Encode or decode strings with HTML entities
+HTML::Filter (3pm)   - Filter HTML text through the parser
+HTML::Form (3pm)     - Class that represents an HTML form element
+HTML::FormatMarkdown (3pm) - Format HTML as Markdown
+HTML::FormatPS (3pm) - Format HTML as PostScript
+HTML::FormatRTF (3pm) - Format HTML as RTF
+HTML::Formatter (3pm) - Base class for HTML formatters
+HTML::FormatText (3pm) - Format HTML as plaintext
+HTML::HeadParser (3pm) - Parse <HEAD> section of a HTML document
+HTML::LinkExtor (3pm) - Extract links from an HTML document
+HTML::Parse (3pm)    - Deprecated, a wrapper around HTML::TreeBuilder
+HTML::Parser (3pm)   - HTML parser class
+HTML::PullParser (3pm) - Alternative HTML::Parser interface
+HTML::Tagset (3pm)   - data tables useful in parsing HTML
+HTML::TokeParser (3pm) - Alternative HTML::Parser interface
+HTML::Tree (3pm)     - build and scan parse-trees of HTML
+HTML::Tree::AboutObjects (3pm) - - article: "User's View of Object-Oriented Modules"
+HTML::Tree::AboutTrees (3pm) - - article on tree-shaped data structures in Perl
+HTML::Tree::Scanning (3pm) - - article: "Scanning HTML"
+HTML::TreeBuilder (3pm) - Parser that builds a HTML syntax tree
+htobe16 (3)          - convert values between host and big-/little-endian byte order
+htobe32 (3)          - convert values between host and big-/little-endian byte order
+htobe64 (3)          - convert values between host and big-/little-endian byte order
+htole16 (3)          - convert values between host and big-/little-endian byte order
+htole32 (3)          - convert values between host and big-/little-endian byte order
+htole64 (3)          - convert values between host and big-/little-endian byte order
+htonl (3)            - convert values between host and network byte order
+htons (3)            - convert values between host and network byte order
+HTTP::Config (3pm)   - Configuration for request and response objects
+HTTP::Cookies (3pm)  - HTTP cookie jars
+HTTP::Cookies::Netscape (3pm) - Access to Netscape cookies files
+HTTP::Daemon (3pm)   - a simple http server class
+HTTP::Date (3pm)     - date conversion routines
+HTTP::Headers (3pm)  - Class encapsulating HTTP Message headers
+HTTP::Headers::Util (3pm) - Header value parsing utility functions
+HTTP::Message (3pm)  - HTTP style message (base class)
+HTTP::Negotiate (3pm) - choose a variant to serve
+HTTP::Request (3pm)  - HTTP style request message
+HTTP::Request::Common (3pm) - Construct common HTTP::Request objects
+HTTP::Response (3pm) - HTTP style response message
+HTTP::Status (3pm)   - HTTP Status code processing
+HUGE_VAL (3)         - floating-point constants
+HUGE_VALF (3)        - floating-point constants
+HUGE_VALL (3)        - floating-point constants
+hypot (3)            - Euclidean distance function
+hypotf (3)           - Euclidean distance function
+hypotl (3)           - Euclidean distance function
+iconv (3)            - perform character set conversion
+iconv_close (3)      - deallocate descriptor for character set conversion
+iconv_open (3)       - allocate descriptor for character set conversion
+if_freenameindex (3) - get network interface names and indexes
+if_indextoname (3)   - mappings between network interface names and indexes
+if_nameindex (3)     - get network interface names and indexes
+if_nametoindex (3)   - mappings between network interface names and indexes
+ilogb (3)            - get integer exponent of a floating-point value
+ilogbf (3)           - get integer exponent of a floating-point value
+ilogbl (3)           - get integer exponent of a floating-point value
+imaxabs (3)          - compute the absolute value of an integer
+imaxdiv (3)          - compute quotient and remainder of an integer division
+index (3)            - locate character in string
+inet (3)             - Internet address manipulation routines
+inet_addr (3)        - Internet address manipulation routines
+inet_aton (3)        - Internet address manipulation routines
+inet_lnaof (3)       - Internet address manipulation routines
+inet_makeaddr (3)    - Internet address manipulation routines
+inet_net_ntop (3)    - Internet network number conversion
+inet_net_pton (3)    - Internet network number conversion
+inet_netof (3)       - Internet address manipulation routines
+inet_network (3)     - Internet address manipulation routines
+inet_ntoa (3)        - Internet address manipulation routines
+inet_ntop (3)        - convert IPv4 and IPv6 addresses from binary to text form
+inet_pton (3)        - convert IPv4 and IPv6 addresses from text to binary form
+INFINITY (3)         - floating-point constants
+initgroups (3)       - initialize the supplementary group access list
+initstate (3)        - random number generator
+initstate_r (3)      - reentrant random number generator
+innetgr (3)          - handle network group entries
+insque (3)           - insert/remove an item from a queue
+intro (3)            - introduction to library functions
+IO::HTML (3pm)       - Open an HTML file with automatic charset detection
+IO::Pty (3pm)        - Pseudo TTY object class
+IO::Socket::INET6 (3pm) - Object interface for AF_INET/AF_INET6 domain sockets
+IO::Socket::SSL (3pm) - SSL sockets with IO::Socket interface
+IO::Socket::SSL::Intercept (3pm) - - SSL interception (man in the middle)
+IO::Socket::SSL::PublicSuffix (3pm) - provide access to Mozilla's list of effective TLD names
+IO::Socket::SSL::Utils (3pm) - - loading, storing, creating certificates and keys
+IO::String (3pm)     - Emulate file interface for in-core strings
+IO::Tty (3pm)        - Low-level allocate a pseudo-Tty, import constants.
+IO::Tty::Constant (3pm) - Terminal Constants (autogenerated)
+IPC::Run (3pm)       - system() and background procs w/ piping, redirs, ptys (Unix, Win32)
+IPC::Run::Debug (3pm) - debugging routines for IPC::Run
+IPC::Run::IO (3pm)   - - I/O channels for IPC::Run.
+IPC::Run::Timer (3pm) - - Timer channels for IPC::Run.
+IPC::System::Simple (3pm) - Run commands simply, with detailed diagnostics
+iruserok (3)         - routines for returning a stream to a remote command
+iruserok_af (3)      - routines for returning a stream to a remote command
+isalnum (3)          - character classification functions
+isalnum_l (3)        - character classification functions
+isalpha (3)          - character classification functions
+isalpha_l (3)        - character classification functions
+isascii (3)          - character classification functions
+isascii_l (3)        - character classification functions
+isatty (3)           - test whether a file descriptor refers to a terminal
+isblank (3)          - character classification functions
+isblank_l (3)        - character classification functions
+iscntrl (3)          - character classification functions
+iscntrl_l (3)        - character classification functions
+isdigit (3)          - character classification functions
+isdigit_l (3)        - character classification functions
+isfdtype (3)         - test file type of a file descriptor
+isfinite (3)         - floating-point classification macros
+isgraph (3)          - character classification functions
+isgraph_l (3)        - character classification functions
+isgreater (3)        - floating-point relational tests without exception for NaN
+isgreaterequal (3)   - floating-point relational tests without exception for NaN
+isinf (3)            - floating-point classification macros
+isinff (3)           - BSD floating-point classification functions
+isinfl (3)           - BSD floating-point classification functions
+isless (3)           - floating-point relational tests without exception for NaN
+islessequal (3)      - floating-point relational tests without exception for NaN
+islessgreater (3)    - floating-point relational tests without exception for NaN
+islower (3)          - character classification functions
+islower_l (3)        - character classification functions
+isnan (3)            - floating-point classification macros
+isnanf (3)           - BSD floating-point classification functions
+isnanl (3)           - BSD floating-point classification functions
+isnormal (3)         - floating-point classification macros
+isprint (3)          - character classification functions
+isprint_l (3)        - character classification functions
+ispunct (3)          - character classification functions
+ispunct_l (3)        - character classification functions
+isspace (3)          - character classification functions
+isspace_l (3)        - character classification functions
+isunordered (3)      - floating-point relational tests without exception for NaN
+isupper (3)          - character classification functions
+isupper_l (3)        - character classification functions
+iswalnum (3)         - test for alphanumeric wide character
+iswalpha (3)         - test for alphabetic wide character
+iswblank (3)         - test for whitespace wide character
+iswcntrl (3)         - test for control wide character
+iswctype (3)         - wide-character classification
+iswdigit (3)         - test for decimal digit wide character
+iswgraph (3)         - test for graphic wide character
+iswlower (3)         - test for lowercase wide character
+iswprint (3)         - test for printing wide character
+iswpunct (3)         - test for punctuation or symbolic wide character
+iswspace (3)         - test for whitespace wide character
+iswupper (3)         - test for uppercase wide character
+iswxdigit (3)        - test for hexadecimal digit wide character
+isxdigit (3)         - character classification functions
+isxdigit_l (3)       - character classification functions
+j0 (3)               - Bessel functions of the first kind
+j0f (3)              - Bessel functions of the first kind
+j0l (3)              - Bessel functions of the first kind
+j1 (3)               - Bessel functions of the first kind
+j1f (3)              - Bessel functions of the first kind
+j1l (3)              - Bessel functions of the first kind
+jn (3)               - Bessel functions of the first kind
+jnf (3)              - Bessel functions of the first kind
+jnl (3)              - Bessel functions of the first kind
+jrand48 (3)          - generate uniformly distributed pseudo-random numbers
+jrand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+key_decryptsession (3) - interfaces to rpc keyserver daemon
+key_encryptsession (3) - interfaces to rpc keyserver daemon
+key_gendes (3)       - interfaces to rpc keyserver daemon
+key_secretkey_is_set (3) - interfaces to rpc keyserver daemon
+key_setsecret (3)    - interfaces to rpc keyserver daemon
+killpg (3)           - send signal to a process group
+klogctl (3)          - read and/or clear kernel message ring buffer; set console_loglevel
+l64a (3)             - convert between long and base-64
+labs (3)             - compute the absolute value of an integer
+lckpwdf (3)          - get shadow password file entry
+lcong48 (3)          - generate uniformly distributed pseudo-random numbers
+lcong48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+ldexp (3)            - multiply floating-point number by integral power of 2
+ldexpf (3)           - multiply floating-point number by integral power of 2
+ldexpl (3)           - multiply floating-point number by integral power of 2
+ldiv (3)             - compute quotient and remainder of an integer division
+le16toh (3)          - convert values between host and big-/little-endian byte order
+le32toh (3)          - convert values between host and big-/little-endian byte order
+le64toh (3)          - convert values between host and big-/little-endian byte order
+lfind (3)            - linear search of an array
+lgamma (3)           - log gamma function
+lgamma_r (3)         - log gamma function
+lgammaf (3)          - log gamma function
+lgammaf_r (3)        - log gamma function
+lgammal (3)          - log gamma function
+lgammal_r (3)        - log gamma function
+libnetlink (3)       - A library for accessing the netlink service
+libwww::lwpcook (3pm) - The libwww-perl cookbook
+libwww::lwptut (3pm) - - An LWP Tutorial
+Lintian::Architecture (3) - - Lintian API for handling architectures and wildcards
+Lintian::Check (3)   - - Lintian checks shared between multiple scripts
+Lintian::CheckScript (3) - Check script meta data
+Lintian::Collect (3) - Lintian interface to package data collection
+Lintian::Collect::Binary (3) - Lintian interface to binary package data collection
+Lintian::Collect::Buildinfo (3) - Lintian interface to .buildinfo file data collection
+Lintian::Collect::Changes (3) - Lintian interface to .changes file data collection
+Lintian::Collect::Group (3) - Lintian interface to group data collection
+Lintian::Collect::Package (3) - Lintian base interface to binary and source package data collection
+Lintian::Collect::Source (3) - Lintian interface to source package data collection
+Lintian::CollScript (3) - Collection script handle
+Lintian::Command (3) - Utilities to execute other commands from lintian code
+Lintian::Command::Simple (3) - Run commands without pipes
+Lintian::Data (3)    - Lintian interface to query lists of keywords
+Lintian::DepMap (3)  - Dependencies map/tree creator
+Lintian::DepMap::Properties (3) - Dependencies with properties map/tree creator
+Lintian::Lab (3)     - - Interface to the Lintian Lab
+Lintian::Lab::Entry (3) - A package inside the Lab
+Lintian::Lab::Manifest (3) - - Lintian Lab manifest
+Lintian::Lab::ManifestDiff (3) - - Difference representation between two Manifests
+Lintian::Output (3)  - Lintian messaging handling
+Lintian::Path (3)    - Lintian representation of a path entry in a package
+Lintian::Path::FSInfo (3) - File System information for Lintian::Path
+Lintian::Processable (3) - - An (abstract) object that Lintian can process
+Lintian::Processable::Package (3) - - An object that Lintian can process
+Lintian::ProcessableGroup (3) - - A group of objects that Lintian can process
+Lintian::ProcessablePool (3) - - Pool of processables
+Lintian::Profile (3) - Profile parser for Lintian
+Lintian::Relation (3) - Lintian operations on dependencies and relationships
+Lintian::Relation::Version (3) - Comparison operators on Debian versions
+Lintian::Reporting::ResourceManager (3) - - A simple resource manager for html_reports
+Lintian::SlidingWindow (3) - Lintian interface to sliding window match
+Lintian::Tag::Info (3) - Lintian interface to tag metadata
+Lintian::Tag::Override (3) - - Representation of a Lintian Override
+Lintian::Tags (3)    - Manipulate and output Lintian tags
+Lintian::Tutorial (3) - - The newcomer's guide to Lintian
+Lintian::Tutorial::TestSuite (3) - - Quick intro to running the Lintian testsuite
+Lintian::Tutorial::WritingChecks (3) - - Writing checks for Lintian
+Lintian::Tutorial::WritingTests (3) - - Short tutorial on writing tests
+Lintian::Unpacker (3) - - Job handler to unpack collections
+Lintian::Util (3)    - Lintian utility functions
+lio_listio (3)       - initiate a list of I/O requests
+List::MoreUtils (3pm) - Provide the stuff missing in List::Util
+List::MoreUtils::Contributing (3pm) - Gives rough introduction into contributing to List::MoreUtils
+List::MoreUtils::PP (3pm) - Provide List::MoreUtils pure Perl implementation
+List::MoreUtils::XS (3pm) - Provide compiled List::MoreUtils functions
+LIST_EMPTY (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_ENTRY (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_FIRST (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_FOREACH (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_HEAD (3)        - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_HEAD_INITIALIZER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_INIT (3)        - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_INSERT_AFTER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_INSERT_BEFORE (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_INSERT_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_NEXT (3)        - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+LIST_REMOVE (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+llabs (3)            - compute the absolute value of an integer
+lldiv (3)            - compute quotient and remainder of an integer division
+llrint (3)           - round to nearest integer
+llrintf (3)          - round to nearest integer
+llrintl (3)          - round to nearest integer
+llround (3)          - round to nearest integer
+llroundf (3)         - round to nearest integer
+llroundl (3)         - round to nearest integer
+Locale::gettext (3pm) - message handling functions
+localeconv (3)       - get numeric formatting information
+localtime (3)        - transform date and time to broken-down time or ASCII
+localtime_r (3)      - transform date and time to broken-down time or ASCII
+lockf (3)            - apply, test or remove a POSIX lock on an open file
+log (3)              - natural logarithmic function
+log10 (3)            - base-10 logarithmic function
+log10f (3)           - base-10 logarithmic function
+log10l (3)           - base-10 logarithmic function
+log1p (3)            - logarithm of 1 plus argument
+log1pf (3)           - logarithm of 1 plus argument
+log1pl (3)           - logarithm of 1 plus argument
+log2 (3)             - base-2 logarithmic function
+log2f (3)            - base-2 logarithmic function
+log2l (3)            - base-2 logarithmic function
+logb (3)             - get exponent of a floating-point value
+logbf (3)            - get exponent of a floating-point value
+logbl (3)            - get exponent of a floating-point value
+logf (3)             - natural logarithmic function
+login (3)            - write utmp and wtmp entries
+login_tty (3)        - terminal utility functions
+logl (3)             - natural logarithmic function
+logout (3)           - write utmp and wtmp entries
+logwtmp (3)          - append an entry to the wtmp file
+longjmp (3)          - performing a nonlocal goto
+lrand48 (3)          - generate uniformly distributed pseudo-random numbers
+lrand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+lrint (3)            - round to nearest integer
+lrintf (3)           - round to nearest integer
+lrintl (3)           - round to nearest integer
+lround (3)           - round to nearest integer
+lroundf (3)          - round to nearest integer
+lroundl (3)          - round to nearest integer
+lsearch (3)          - linear search of an array
+lseek64 (3)          - reposition 64-bit read/write file offset
+lutimes (3)          - change file timestamps
+LWP (3pm)            - The World-Wide Web library for Perl
+LWP::Authen::Ntlm (3pm) - Library for enabling NTLM authentication (Microsoft) in LWP
+LWP::ConnCache (3pm) - Connection cache manager
+LWP::Debug (3pm)     - deprecated
+LWP::MediaTypes (3pm) - guess media type for a file or a URL
+LWP::MemberMixin (3pm) - Member access mixin class
+LWP::Protocol (3pm)  - Base class for LWP protocols
+LWP::Protocol::https (3pm) - Provide https support for LWP::UserAgent
+LWP::RobotUA (3pm)   - a class for well-behaved Web robots
+LWP::Simple (3pm)    - simple procedural interface to LWP
+LWP::UserAgent (3pm) - Web user agent class
+Mail::Address (3pm)  - Parse mail addresses
+Mail::Cap (3pm)      - Parse mailcap files
+Mail::Field (3pm)    - Base class for manipulation of mail header fields
+Mail::Field::AddrList (3pm) - object representation of e-mail address lists
+Mail::Field::Date (3pm) - a date header field
+Mail::Field::Generic (3pm) - implementation for inspecific fields
+Mail::Filter (3pm)   - Filter mail through multiple subroutines
+Mail::Header (3pm)   - manipulate MIME headers
+Mail::Internet (3pm) - manipulate email messages
+Mail::Mailer (3pm)   - Simple interface to electronic mailing mechanisms
+Mail::Send (3pm)     - Simple electronic mail interface
+Mail::Sendmail (3pm) - Simple platform independent mailer
+Mail::Util (3pm)     - mail utility functions
+major (3)            - manage a device number
+makecontext (3)      - manipulate user context
+makedev (3)          - manage a device number
+mallinfo (3)         - obtain memory allocation information
+malloc (3)           - allocate and free dynamic memory
+malloc_get_state (3) - record and restore state of malloc implementation
+malloc_hook (3)      - malloc debugging variables
+malloc_info (3)      - export malloc state to a stream
+malloc_set_state (3) - record and restore state of malloc implementation
+malloc_stats (3)     - print memory allocation statistics
+malloc_trim (3)      - release free memory from the top of the heap
+malloc_usable_size (3) - obtain size of block of memory allocated from heap
+mallopt (3)          - set memory allocation parameters
+matherr (3)          - SVID math library exception handling
+MB_CUR_MAX (3)       - maximum length of a multibyte character in the current locale
+MB_LEN_MAX (3)       - maximum multibyte length of a character across all locales
+mblen (3)            - determine number of bytes in next multibyte character
+mbrlen (3)           - determine number of bytes in next multibyte character
+mbrtowc (3)          - convert a multibyte sequence to a wide character
+mbsinit (3)          - test for initial shift state
+mbsnrtowcs (3)       - convert a multibyte string to a wide-character string
+mbsrtowcs (3)        - convert a multibyte string to a wide-character string
+mbstowcs (3)         - convert a multibyte string to a wide-character string
+mbtowc (3)           - convert a multibyte sequence to a wide character
+mcheck (3)           - heap consistency checking
+mcheck_check_all (3) - heap consistency checking
+mcheck_pedantic (3)  - heap consistency checking
+memalign (3)         - allocate aligned memory
+memccpy (3)          - copy memory area
+memchr (3)           - scan memory for a character
+memcmp (3)           - compare memory areas
+memcpy (3)           - copy memory area
+memfrob (3)          - frobnicate (encrypt) a memory area
+memmem (3)           - locate a substring
+memmove (3)          - copy memory area
+mempcpy (3)          - copy memory area
+memrchr (3)          - scan memory for a character
+memset (3)           - fill memory with a constant byte
+minor (3)            - manage a device number
+mkdtemp (3)          - create a unique temporary directory
+mkfifo (3)           - make a FIFO special file (a named pipe)
+mkfifoat (3)         - make a FIFO special file (a named pipe)
+mkostemp (3)         - create a unique temporary file
+mkostemps (3)        - create a unique temporary file
+mkstemp (3)          - create a unique temporary file
+mkstemps (3)         - create a unique temporary file
+mktemp (3)           - make a unique temporary filename
+mktime (3)           - transform date and time to broken-down time or ASCII
+mmap64 (3)           - map or unmap files or devices into memory
+modf (3)             - extract signed integral and fractional values from floating-point number
+modff (3)            - extract signed integral and fractional values from floating-point number
+modfl (3)            - extract signed integral and fractional values from floating-point number
+mpool (3)            - shared memory buffer pool
+mprobe (3)           - heap consistency checking
+mq_close (3)         - close a message queue descriptor
+mq_getattr (3)       - get/set message queue attributes
+mq_notify (3)        - register for notification when a message is available
+mq_open (3)          - open a message queue
+mq_receive (3)       - receive a message from a message queue
+mq_send (3)          - send a message to a message queue
+mq_setattr (3)       - get/set message queue attributes
+mq_timedreceive (3)  - receive a message from a message queue
+mq_timedsend (3)     - send a message to a message queue
+mq_unlink (3)        - remove a message queue
+mrand48 (3)          - generate uniformly distributed pseudo-random numbers
+mrand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+mtrace (3)           - malloc tracing
+muntrace (3)         - malloc tracing
+nan (3)              - return 'Not a Number'
+nanf (3)             - return 'Not a Number'
+nanl (3)             - return 'Not a Number'
+nearbyint (3)        - round to nearest integer
+nearbyintf (3)       - round to nearest integer
+nearbyintl (3)       - round to nearest integer
+Net::DBus (3pm)      - Perl extension for the DBus message system
+Net::DBus::Annotation (3pm) - annotations for changing behaviour of APIs
+Net::DBus::ASyncReply (3pm) - asynchronous method reply handler
+Net::DBus::BaseObject (3pm) - base class for exporting objects to the bus
+Net::DBus::Binding::Bus (3pm) - Handle to a well-known message bus instance
+Net::DBus::Binding::Connection (3pm) - A connection between client and server
+Net::DBus::Binding::Introspector (3pm) - Handler for object introspection data
+Net::DBus::Binding::Iterator (3pm) - Reading and writing message parameters
+Net::DBus::Binding::Message (3pm) - Base class for messages
+Net::DBus::Binding::Message::Error (3pm) - a message encoding a method call error
+Net::DBus::Binding::Message::MethodCall (3pm) - a message encoding a method call
+Net::DBus::Binding::Message::MethodReturn (3pm) - a message encoding a method return
+Net::DBus::Binding::Message::Signal (3pm) - a message encoding a signal
+Net::DBus::Binding::PendingCall (3pm) - A handler for pending method replies
+Net::DBus::Binding::Server (3pm) - A server to accept incoming connections
+Net::DBus::Binding::Value (3pm) - Strongly typed data value
+Net::DBus::Binding::Watch (3pm) - binding to the dbus watch API
+Net::DBus::Callback (3pm) - a callback for receiving reactor events
+Net::DBus::Dumper (3pm) - Stringify Net::DBus objects suitable for printing
+Net::DBus::Error (3pm) - Error details for remote method invocation
+Net::DBus::Exporter (3pm) - Export object methods and signals to the bus
+Net::DBus::Object (3pm) - Implement objects to export to the bus
+Net::DBus::ProxyObject (3pm) - Implement objects to export to the bus
+Net::DBus::Reactor (3pm) - application event loop
+Net::DBus::RemoteObject (3pm) - Access objects provided on the bus
+Net::DBus::RemoteService (3pm) - Access services provided on the bus
+Net::DBus::Service (3pm) - Provide a service to the bus for clients to use
+Net::DBus::Test::MockConnection (3pm) - Fake a connection to the bus unit testing
+Net::DBus::Test::MockIterator (3pm) - Iterator over a mock message
+Net::DBus::Test::MockMessage (3pm) - Fake a message object when unit testing
+Net::DBus::Test::MockObject (3pm) - Fake an object from the bus for unit testing
+Net::DBus::Tutorial (3pm) - tutorials on the Perl DBus APIs
+Net::DBus::Tutorial::ExportingObjects (3pm) - tutorials on providing a DBus service
+Net::DBus::Tutorial::UsingObjects (3pm) - tutorial on accessing a DBus service
+Net::DNS (3pm)       - Perl Interface to the Domain Name System
+Net::DNS::Domain (3pm) - DNS domains
+Net::DNS::DomainName (3pm) - DNS name representation
+Net::DNS::FAQ (3pm)  - Frequently Asked Net::DNS Questions
+Net::DNS::Header (3pm) - DNS packet header
+Net::DNS::Mailbox (3pm) - DNS mailbox representation
+Net::DNS::Nameserver (3pm) - DNS server class
+Net::DNS::Packet (3pm) - DNS protocol packet
+Net::DNS::Parameters (3pm) - DNS parameter assignments
+Net::DNS::Question (3pm) - DNS question record
+Net::DNS::Resolver (3pm) - DNS resolver class
+Net::DNS::Resolver::android (3pm) - Android resolver class
+Net::DNS::Resolver::Base (3pm) - DNS resolver base class
+Net::DNS::Resolver::cygwin (3pm) - Cygwin resolver class
+Net::DNS::Resolver::MSWin32 (3pm) - MS Windows resolver class
+Net::DNS::Resolver::os2 (3pm) - OS2 resolver class
+Net::DNS::Resolver::os390 (3pm) - IBM OS/390 resolver class
+Net::DNS::Resolver::Recurse (3pm) - DNS recursive resolver
+Net::DNS::Resolver::UNIX (3pm) - Unix resolver class
+Net::DNS::RR (3pm)   - DNS resource record base class
+Net::DNS::RR::A (3pm) - DNS A resource record
+Net::DNS::RR::AAAA (3pm) - DNS AAAA resource record
+Net::DNS::RR::AFSDB (3pm) - DNS AFSDB resource record
+Net::DNS::RR::APL (3pm) - DNS APL resource record
+Net::DNS::RR::CAA (3pm) - DNS CAA resource record
+Net::DNS::RR::CDNSKEY (3pm) - DNS CDNSKEY resource record
+Net::DNS::RR::CDS (3pm) - DNS CDS resource record
+Net::DNS::RR::CERT (3pm) - DNS CERT resource record
+Net::DNS::RR::CNAME (3pm) - DNS CNAME resource record
+Net::DNS::RR::CSYNC (3pm) - DNS CSYNC resource record
+Net::DNS::RR::DHCID (3pm) - DNS DHCID resource record
+Net::DNS::RR::DLV (3pm) - DNS DLV resource record
+Net::DNS::RR::DNAME (3pm) - DNS DNAME resource record
+Net::DNS::RR::DNSKEY (3pm) - DNS DNSKEY resource record
+Net::DNS::RR::DS (3pm) - DNS DS resource record
+Net::DNS::RR::EUI48 (3pm) - DNS EUI48 resource record
+Net::DNS::RR::EUI64 (3pm) - DNS EUI64 resource record
+Net::DNS::RR::GPOS (3pm) - DNS GPOS resource record
+Net::DNS::RR::HINFO (3pm) - DNS HINFO resource record
+Net::DNS::RR::HIP (3pm) - DNS HIP resource record
+Net::DNS::RR::IPSECKEY (3pm) - DNS IPSECKEY resource record
+Net::DNS::RR::ISDN (3pm) - DNS ISDN resource record
+Net::DNS::RR::KEY (3pm) - DNS KEY resource record
+Net::DNS::RR::KX (3pm) - DNS KX resource record
+Net::DNS::RR::L32 (3pm) - DNS L32 resource record
+Net::DNS::RR::L64 (3pm) - DNS L64 resource record
+Net::DNS::RR::LOC (3pm) - DNS LOC resource record
+Net::DNS::RR::LP (3pm) - DNS LP resource record
+Net::DNS::RR::MB (3pm) - DNS MB resource record
+Net::DNS::RR::MG (3pm) - DNS MG resource record
+Net::DNS::RR::MINFO (3pm) - DNS MINFO resource record
+Net::DNS::RR::MR (3pm) - DNS MR resource record
+Net::DNS::RR::MX (3pm) - DNS MX resource record
+Net::DNS::RR::NAPTR (3pm) - DNS NAPTR resource record
+Net::DNS::RR::NID (3pm) - DNS NID resource record
+Net::DNS::RR::NS (3pm) - DNS NS resource record
+Net::DNS::RR::NSEC (3pm) - DNS NSEC resource record
+Net::DNS::RR::NSEC3 (3pm) - DNS NSEC3 resource record
+Net::DNS::RR::NSEC3PARAM (3pm) - DNS NSEC3PARAM resource record
+Net::DNS::RR::NULL (3pm) - DNS NULL resource record
+Net::DNS::RR::OPENPGPKEY (3pm) - DNS OPENPGPKEY resource record
+Net::DNS::RR::OPT (3pm) - DNS OPT resource record
+Net::DNS::RR::PTR (3pm) - DNS PTR resource record
+Net::DNS::RR::PX (3pm) - DNS PX resource record
+Net::DNS::RR::RP (3pm) - DNS RP resource record
+Net::DNS::RR::RRSIG (3pm) - DNS RRSIG resource record
+Net::DNS::RR::RT (3pm) - DNS RT resource record
+Net::DNS::RR::SIG (3pm) - DNS SIG resource record
+Net::DNS::RR::SMIMEA (3pm) - DNS SMIMEA resource record
+Net::DNS::RR::SOA (3pm) - DNS SOA resource record
+Net::DNS::RR::SPF (3pm) - DNS SPF resource record
+Net::DNS::RR::SRV (3pm) - DNS SRV resource record
+Net::DNS::RR::SSHFP (3pm) - DNS SSHFP resource record
+Net::DNS::RR::TKEY (3pm) - DNS TKEY resource record
+Net::DNS::RR::TLSA (3pm) - DNS TLSA resource record
+Net::DNS::RR::TSIG (3pm) - DNS TSIG resource record
+Net::DNS::RR::TXT (3pm) - DNS TXT resource record
+Net::DNS::RR::URI (3pm) - DNS URI resource record
+Net::DNS::RR::X25 (3pm) - DNS X25 resource record
+Net::DNS::Text (3pm) - DNS text representation
+Net::DNS::Update (3pm) - DNS dynamic update packet
+Net::DNS::ZoneFile (3pm) - DNS zone file
+Net::Domain::TLD (3pm) - Work with TLD names
+Net::HTTP (3pm)      - Low-level HTTP connection (client)
+Net::HTTP::NB (3pm)  - Non-blocking HTTP client
+Net::HTTPS (3pm)     - Low-level HTTP over SSL/TLS connection (client)
+Net::IP (3pm)        - Perl extension for manipulating IPv4/IPv6 addresses
+Net::LibIDN (3pm)    - Perl bindings for GNU Libidn
+Net::SMTP::SSL (3pm) - SSL support for Net::SMTP
+Net::SSLeay (3pm)    - Perl extension for using OpenSSL
+Net::SSLeay::Handle (3pm) - Perl module that lets SSL (HTTPS) sockets be handled as standard file handles.
+netlink (3)          - Netlink macros
+newlocale (3)        - create, modify, and free a locale object
+nextafter (3)        - floating-point number manipulation
+nextafterf (3)       - floating-point number manipulation
+nextafterl (3)       - floating-point number manipulation
+nextdown (3)         - return next floating-point number toward positive/negative infinity
+nextdownf (3)        - return next floating-point number toward positive/negative infinity
+nextdownl (3)        - return next floating-point number toward positive/negative infinity
+nexttoward (3)       - floating-point number manipulation
+nexttowardf (3)      - floating-point number manipulation
+nexttowardl (3)      - floating-point number manipulation
+nextup (3)           - return next floating-point number toward positive/negative infinity
+nextupf (3)          - return next floating-point number toward positive/negative infinity
+nextupl (3)          - return next floating-point number toward positive/negative infinity
+nftw (3)             - file tree walk
+ngettext (3)         - translate message and choose plural form
+nl_langinfo (3)      - query language and locale information
+nl_langinfo_l (3)    - query language and locale information
+nrand48 (3)          - generate uniformly distributed pseudo-random numbers
+nrand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+ntohl (3)            - convert values between host and network byte order
+ntohs (3)            - convert values between host and network byte order
+ntp_adjtime (3)      - tune kernel clock
+ntp_gettime (3)      - get time parameters (NTP daemon interface)
+ntp_gettimex (3)     - get time parameters (NTP daemon interface)
+offsetof (3)         - offset of a structure member
+on_exit (3)          - register a function to be called at normal process termination
+open_memstream (3)   - open a dynamic memory buffer stream
+open_wmemstream (3)  - open a dynamic memory buffer stream
+opendir (3)          - open a directory
+openlog (3)          - send messages to the system logger
+openpty (3)          - terminal utility functions
+optarg (3)           - Parse command-line options
+opterr (3)           - Parse command-line options
+optind (3)           - Parse command-line options
+optopt (3)           - Parse command-line options
+Parse::DebianChangelog (3pm) - parse Debian changelogs and output them in other formats
+Parse::DebianChangelog::ChangesFilters (3pm) - filters to be applied to Debian changelog entries
+Parse::DebianChangelog::Entry (3pm) - represents one entry in a Debian changelog
+Parse::DebianChangelog::Util (3pm) - utility functions for parsing Debian changelogs
+passwd2des (3)       - RFS password encryption
+pathconf (3)         - get configuration values for files
+pclose (3)           - pipe stream to or from a process
+pcrepattern (3)      - Perl-compatible regular expressions
+PerlIO::gzip (3pm)   - Perl extension to provide a PerlIO layer to gzip/gunzip
+perror (3)           - print a system error message
+pmap_getmaps (3)     - library routines for remote procedure calls
+pmap_getport (3)     - library routines for remote procedure calls
+pmap_rmtcall (3)     - library routines for remote procedure calls
+pmap_set (3)         - library routines for remote procedure calls
+pmap_unset (3)       - library routines for remote procedure calls
+Pod::UsageTrans (3pm) - print a usage message from embedded pod documentation
+popen (3)            - pipe stream to or from a process
+posix_fallocate (3)  - allocate file space
+posix_madvise (3)    - give advice about patterns of memory usage
+posix_memalign (3)   - allocate aligned memory
+posix_openpt (3)     - open a pseudoterminal device
+posix_spawn (3)      - spawn a process
+posix_spawnp (3)     - spawn a process
+pow (3)              - power functions
+pow10 (3)            - base-10 power functions
+pow10f (3)           - base-10 power functions
+pow10l (3)           - base-10 power functions
+powf (3)             - power functions
+powl (3)             - power functions
+printf (3)           - formatted output conversion
+vlimit (3)           - get/set resource limits
+profil (3)           - execution time profile
+program_invocation_name (3) - obtain name used to invoke calling program
+program_invocation_short_name (3) - obtain name used to invoke calling program
+psiginfo (3)         - print signal message
+psignal (3)          - print signal message
+pthread_attr_destroy (3) - initialize and destroy thread attributes object
+pthread_attr_getaffinity_np (3) - set/get CPU affinity attribute in thread attributes object
+pthread_attr_getdetachstate (3) - set/get detach state attribute in thread attributes object
+pthread_attr_getguardsize (3) - set/get guard size attribute in thread attributes object
+pthread_attr_getinheritsched (3) - set/get inherit-scheduler attribute in thread attributes object
+pthread_attr_getschedparam (3) - set/get scheduling parameter attributes in thread attributes object
+pthread_attr_getschedpolicy (3) - set/get scheduling policy attribute in thread attributes object
+pthread_attr_getscope (3) - set/get contention scope attribute in thread attributes object
+pthread_attr_getstack (3) - set/get stack attributes in thread attributes object
+pthread_attr_getstackaddr (3) - set/get stack address attribute in thread attributes object
+pthread_attr_getstacksize (3) - set/get stack size attribute in thread attributes object
+pthread_attr_init (3) - initialize and destroy thread attributes object
+pthread_attr_setaffinity_np (3) - set/get CPU affinity attribute in thread attributes object
+pthread_attr_setdetachstate (3) - set/get detach state attribute in thread attributes object
+pthread_attr_setguardsize (3) - set/get guard size attribute in thread attributes object
+pthread_attr_setinheritsched (3) - set/get inherit-scheduler attribute in thread attributes object
+pthread_attr_setschedparam (3) - set/get scheduling parameter attributes in thread attributes object
+pthread_attr_setschedpolicy (3) - set/get scheduling policy attribute in thread attributes object
+pthread_attr_setscope (3) - set/get contention scope attribute in thread attributes object
+pthread_attr_setstack (3) - set/get stack attributes in thread attributes object
+pthread_attr_setstackaddr (3) - set/get stack address attribute in thread attributes object
+pthread_attr_setstacksize (3) - set/get stack size attribute in thread attributes object
+pthread_cancel (3)   - send a cancellation request to a thread
+pthread_cleanup_pop (3) - push and pop thread cancellation clean-up handlers
+pthread_cleanup_pop_restore_np (3) - push and pop thread cancellation clean-up handlers while saving cancelability type
+pthread_cleanup_push (3) - push and pop thread cancellation clean-up handlers
+pthread_cleanup_push_defer_np (3) - push and pop thread cancellation clean-up handlers while saving cancelability type
+pthread_create (3)   - create a new thread
+pthread_detach (3)   - detach a thread
+pthread_equal (3)    - compare thread IDs
+pthread_exit (3)     - terminate calling thread
+pthread_getaffinity_np (3) - set/get CPU affinity of a thread
+pthread_getattr_default_np (3) - get or set default thread-creation attributes
+pthread_getattr_np (3) - get attributes of created thread
+pthread_getconcurrency (3) - set/get the concurrency level
+pthread_getcpuclockid (3) - retrieve ID of a thread's CPU time clock
+pthread_getname_np (3) - set/get the name of a thread
+pthread_getschedparam (3) - set/get scheduling policy and parameters of a thread
+pthread_join (3)     - join with a terminated thread
+pthread_kill (3)     - send a signal to a thread
+pthread_kill_other_threads_np (3) - terminate all other threads in process
+pthread_mutex_consistent (3) - make a robust mutex consistent
+pthread_mutex_consistent_np (3) - make a robust mutex consistent
+pthread_mutexattr_getpshared (3) - get/set process-shared mutex attribute
+pthread_mutexattr_getrobust (3) - get and set the robustness attribute of a mutex attributes object
+pthread_mutexattr_getrobust_np (3) - get and set the robustness attribute of a mutex attributes object
+pthread_mutexattr_setpshared (3) - get/set process-shared mutex attribute
+pthread_mutexattr_setrobust (3) - get and set the robustness attribute of a mutex attributes object
+pthread_mutexattr_setrobust_np (3) - get and set the robustness attribute of a mutex attributes object
+pthread_rwlockattr_getkind_np (3) - set/get the read-write lock kind of the thread read-write lock attribute object
+pthread_rwlockattr_setkind_np (3) - set/get the read-write lock kind of the thread read-write lock attribute object
+pthread_self (3)     - obtain ID of the calling thread
+pthread_setaffinity_np (3) - set/get CPU affinity of a thread
+pthread_setattr_default_np (3) - get or set default thread-creation attributes
+pthread_setcancelstate (3) - set cancelability state and type
+pthread_setcanceltype (3) - set cancelability state and type
+pthread_setconcurrency (3) - set/get the concurrency level
+pthread_setname_np (3) - set/get the name of a thread
+pthread_setschedparam (3) - set/get scheduling policy and parameters of a thread
+pthread_setschedprio (3) - set scheduling priority of a thread
+pthread_sigmask (3)  - examine and change mask of blocked signals
+pthread_sigqueue (3) - queue a signal and data to a thread
+pthread_spin_destroy (3) - initialize or destroy a spin lock
+pthread_spin_init (3) - initialize or destroy a spin lock
+pthread_spin_lock (3) - lock and unlock a spin lock
+pthread_spin_trylock (3) - lock and unlock a spin lock
+pthread_spin_unlock (3) - lock and unlock a spin lock
+pthread_testcancel (3) - request delivery of any pending cancellation request
+pthread_timedjoin_np (3) - try to join with a terminated thread
+pthread_tryjoin_np (3) - try to join with a terminated thread
+pthread_yield (3)    - yield the processor
+ptsname (3)          - get the name of the slave pseudoterminal
+ptsname_r (3)        - get the name of the slave pseudoterminal
+putc (3)             - output of characters and strings
+putc_unlocked (3)    - nonlocking stdio functions
+putchar (3)          - output of characters and strings
+putchar_unlocked (3) - nonlocking stdio functions
+putenv (3)           - change or add an environment variable
+putgrent (3)         - write a group database entry to a file
+putpwent (3)         - write a password file entry
+puts (3)             - output of characters and strings
+putspent (3)         - get shadow password file entry
+pututline (3)        - access utmp file entries
+pututxline (3)       - access utmp file entries
+putw (3)             - input and output of words (ints)
+putwc (3)            - write a wide character to a FILE stream
+putwc_unlocked (3)   - nonlocking stdio functions
+putwchar (3)         - write a wide character to standard output
+putwchar_unlocked (3) - nonlocking stdio functions
+pvalloc (3)          - allocate aligned memory
+qecvt (3)            - convert a floating-point number to a string
+qecvt_r (3)          - convert a floating-point number to a string
+qfcvt (3)            - convert a floating-point number to a string
+qfcvt_r (3)          - convert a floating-point number to a string
+qgcvt (3)            - convert a floating-point number to a string
+qsort (3)            - sort an array
+qsort_r (3)          - sort an array
+queue (3)            - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+raise (3)            - send a signal to the caller
+rand (3)             - pseudo-random number generator
+rand_r (3)           - pseudo-random number generator
+random (3)           - random number generator
+random_r (3)         - reentrant random number generator
+rawmemchr (3)        - scan memory for a character
+rcmd (3)             - routines for returning a stream to a remote command
+rcmd_af (3)          - routines for returning a stream to a remote command
+re_comp (3)          - BSD regex functions
+re_exec (3)          - BSD regex functions
+readdir (3)          - read a directory
+readdir_r (3)        - read a directory
+readline (3readline) - get a line from a user with editing
+realloc (3)          - allocate and free dynamic memory
+realpath (3)         - return the canonicalized absolute pathname
+recno (3)            - record number database access method
+redland (3)          - Resource Description Framework (RDF) Library
+regcomp (3)          - POSIX regex functions
+regerror (3)         - POSIX regex functions
+regex (3)            - POSIX regex functions
+regexec (3)          - POSIX regex functions
+regfree (3)          - POSIX regex functions
+registerrpc (3)      - library routines for remote procedure calls
+remainder (3)        - floating-point remainder function
+remainderf (3)       - floating-point remainder function
+remainderl (3)       - floating-point remainder function
+remove (3)           - remove a file or directory
+remque (3)           - insert/remove an item from a queue
+remquo (3)           - remainder and part of quotient
+remquof (3)          - remainder and part of quotient
+remquol (3)          - remainder and part of quotient
+res_init (3)         - resolver routines
+res_mkquery (3)      - resolver routines
+res_ninit (3)        - resolver routines
+res_nmkquery (3)     - resolver routines
+res_nquery (3)       - resolver routines
+res_nquerydomain (3) - resolver routines
+res_nsearch (3)      - resolver routines
+res_nsend (3)        - resolver routines
+res_query (3)        - resolver routines
+res_querydomain (3)  - resolver routines
+res_search (3)       - resolver routines
+res_send (3)         - resolver routines
+resolver (3)         - resolver routines
+rewind (3)           - reposition a stream
+rewinddir (3)        - reset directory stream
+rexec (3)            - return stream to a remote command
+rexec_af (3)         - return stream to a remote command
+rindex (3)           - locate character in string
+rint (3)             - round to nearest integer
+rintf (3)            - round to nearest integer
+rintl (3)            - round to nearest integer
+round (3)            - round to nearest integer, away from zero
+roundf (3)           - round to nearest integer, away from zero
+roundl (3)           - round to nearest integer, away from zero
+rpc (3)              - library routines for remote procedure calls
+rpmatch (3)          - determine if the answer to a question is affirmative or negative
+rresvport (3)        - routines for returning a stream to a remote command
+rresvport_af (3)     - routines for returning a stream to a remote command
+rtime (3)            - get time from a remote machine
+rtnetlink (3)        - macros to manipulate rtnetlink messages
+ruserok (3)          - routines for returning a stream to a remote command
+ruserok_af (3)       - routines for returning a stream to a remote command
+scalb (3)            - multiply floating-point number by integral power of radix (OBSOLETE)
+scalbf (3)           - multiply floating-point number by integral power of radix (OBSOLETE)
+scalbl (3)           - multiply floating-point number by integral power of radix (OBSOLETE)
+scalbln (3)          - multiply floating-point number by integral power of radix
+scalblnf (3)         - multiply floating-point number by integral power of radix
+scalblnl (3)         - multiply floating-point number by integral power of radix
+scalbn (3)           - multiply floating-point number by integral power of radix
+scalbnf (3)          - multiply floating-point number by integral power of radix
+scalbnl (3)          - multiply floating-point number by integral power of radix
+scandir (3)          - scan a directory for matching entries
+scandirat (3)        - scan a directory for matching entries
+scanf (3)            - input format conversion
+sched_getcpu (3)     - determine CPU on which the calling thread is running
+secure_getenv (3)    - get an environment variable
+seed48 (3)           - generate uniformly distributed pseudo-random numbers
+seed48_r (3)         - generate uniformly distributed pseudo-random numbers reentrantly
+seekdir (3)          - set the position of the next readdir() call in the directory stream.
+sem_close (3)        - close a named semaphore
+sem_destroy (3)      - destroy an unnamed semaphore
+sem_getvalue (3)     - get the value of a semaphore
+sem_init (3)         - initialize an unnamed semaphore
+sem_open (3)         - initialize and open a named semaphore
+sem_post (3)         - unlock a semaphore
+sem_timedwait (3)    - lock a semaphore
+sem_trywait (3)      - lock a semaphore
+sem_unlink (3)       - remove a named semaphore
+sem_wait (3)         - lock a semaphore
+setaliasent (3)      - read an alias entry
+setbuf (3)           - stream buffering operations
+setbuffer (3)        - stream buffering operations
+setcontext (3)       - get or set the user context
+setenv (3)           - change or add an environment variable
+setfsent (3)         - handle fstab entries
+setgrent (3)         - get group file entry
+sethostent (3)       - get network host entry
+sethostid (3)        - get or set the unique identifier of the current host
+setjmp (3)           - performing a nonlocal goto
+setkey (3)           - encrypt 64-bit messages
+setkey_r (3)         - encrypt 64-bit messages
+setlinebuf (3)       - stream buffering operations
+setlocale (3)        - set the current locale
+setlogmask (3)       - set log priority mask
+setmntent (3)        - get filesystem descriptor file entry
+setnetent (3)        - get network entry
+setnetgrent (3)      - handle network group entries
+setprotoent (3)      - get protocol entry
+setpwent (3)         - get password file entry
+setrpcent (3)        - get RPC entry
+setservent (3)       - get service entry
+setspent (3)         - get shadow password file entry
+setstate (3)         - random number generator
+setstate_r (3)       - reentrant random number generator
+setttyent (3)        - get ttys file entry
+setusershell (3)     - get permitted user shells
+setutent (3)         - access utmp file entries
+setutxent (3)        - access utmp file entries
+setvbuf (3)          - stream buffering operations
+sgetspent (3)        - get shadow password file entry
+sgetspent_r (3)      - get shadow password file entry
+shm_open (3)         - create/open or unlink POSIX shared memory objects
+shm_unlink (3)       - create/open or unlink POSIX shared memory objects
+sigaddset (3)        - POSIX signal set operations
+sigandset (3)        - POSIX signal set operations
+sigblock (3)         - BSD signal API
+sigdelset (3)        - POSIX signal set operations
+sigemptyset (3)      - POSIX signal set operations
+sigfillset (3)       - POSIX signal set operations
+siggetmask (3)       - BSD signal API
+sighold (3)          - System V signal API
+sigignore (3)        - System V signal API
+siginterrupt (3)     - allow signals to interrupt system calls
+sigisemptyset (3)    - POSIX signal set operations
+sigismember (3)      - POSIX signal set operations
+siglongjmp (3)       - performing a nonlocal goto
+sigmask (3)          - BSD signal API
+signbit (3)          - test sign of a real floating-point number
+signgam (3)          - log gamma function
+significand (3)      - get mantissa of floating-point number
+significandf (3)     - get mantissa of floating-point number
+significandl (3)     - get mantissa of floating-point number
+sigorset (3)         - POSIX signal set operations
+sigpause (3)         - atomically release blocked signals and wait for interrupt
+sigqueue (3)         - queue a signal and data to a process
+sigrelse (3)         - System V signal API
+sigset (3)           - System V signal API
+sigsetjmp (3)        - performing a nonlocal goto
+sigsetmask (3)       - BSD signal API
+sigsetops (3)        - POSIX signal set operations
+sigstack (3)         - set and/or get signal stack context
+sigvec (3)           - BSD signal API
+sigwait (3)          - wait for a signal
+sin (3)              - sine function
+sincos (3)           - calculate sin and cos simultaneously
+sincosf (3)          - calculate sin and cos simultaneously
+sincosl (3)          - calculate sin and cos simultaneously
+sinf (3)             - sine function
+sinh (3)             - hyperbolic sine function
+sinhf (3)            - hyperbolic sine function
+sinhl (3)            - hyperbolic sine function
+sinl (3)             - sine function
+sleep (3)            - sleep for a specified number of seconds
+SLIST_EMPTY (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_ENTRY (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_FIRST (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_FOREACH (3)    - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_HEAD (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_HEAD_INITIALIZER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_INIT (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_INSERT_AFTER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_INSERT_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_NEXT (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_REMOVE (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+SLIST_REMOVE_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+snprintf (3)         - formatted output conversion
+sockatmark (3)       - determine whether socket is at out-of-band mark
+Socket6 (3pm)        - IPv6 related part of the C socket.h defines and structure manipulators
+sprintf (3)          - formatted output conversion
+sqrt (3)             - square root function
+sqrtf (3)            - square root function
+sqrtl (3)            - square root function
+srand (3)            - pseudo-random number generator
+srand48 (3)          - generate uniformly distributed pseudo-random numbers
+srand48_r (3)        - generate uniformly distributed pseudo-random numbers reentrantly
+srandom (3)          - random number generator
+srandom_r (3)        - reentrant random number generator
+sscanf (3)           - input format conversion
+ssignal (3)          - software signal facility
+STAILQ_CONCAT (3)    - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_EMPTY (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_ENTRY (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_FIRST (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_FOREACH (3)   - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_HEAD (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_HEAD_INITIALIZER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_INIT (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_INSERT_AFTER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_INSERT_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_INSERT_TAIL (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_NEXT (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_REMOVE (3)    - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+STAILQ_REMOVE_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+statvfs (3)          - get filesystem statistics
+stdarg (3)           - variable argument lists
+stderr (3)           - standard I/O streams
+stdin (3)            - standard I/O streams
+stdio (3)            - standard input/output library functions
+stdio_ext (3)        - interfaces to stdio FILE structure
+stdout (3)           - standard I/O streams
+stpcpy (3)           - copy a string returning a pointer to its end
+stpncpy (3)          - copy a fixed-size string, returning a pointer to its end
+strcasecmp (3)       - compare two strings ignoring case
+strcasestr (3)       - locate a substring
+strcat (3)           - concatenate two strings
+strchr (3)           - locate character in string
+strchrnul (3)        - locate character in string
+strcmp (3)           - compare two strings
+strcoll (3)          - compare two strings using the current locale
+strcpy (3)           - copy a string
+strcspn (3)          - get length of a prefix substring
+strdup (3)           - duplicate a string
+strdupa (3)          - duplicate a string
+strerror (3)         - return string describing error number
+strerror_l (3)       - return string describing error number
+strerror_r (3)       - return string describing error number
+strfmon (3)          - convert monetary value to a string
+strfmon_l (3)        - convert monetary value to a string
+strfromd (3)         - convert a floating-point value into a string
+strfromf (3)         - convert a floating-point value into a string
+strfroml (3)         - convert a floating-point value into a string
+strfry (3)           - randomize a string
+strftime (3)         - format date and time
+string (3)           - string operations
+strlen (3)           - calculate the length of a string
+strncasecmp (3)      - compare two strings ignoring case
+strncat (3)          - concatenate two strings
+strncmp (3)          - compare two strings
+strncpy (3)          - copy a string
+strndup (3)          - duplicate a string
+strndupa (3)         - duplicate a string
+strnlen (3)          - determine the length of a fixed-size string
+strpbrk (3)          - search a string for any of a set of bytes
+strptime (3)         - convert a string representation of time to a time tm structure
+strrchr (3)          - locate character in string
+strsep (3)           - extract token from string
+strsignal (3)        - return string describing signal
+strspn (3)           - get length of a prefix substring
+strstr (3)           - locate a substring
+strtod (3)           - convert ASCII string to floating-point number
+strtof (3)           - convert ASCII string to floating-point number
+strtoimax (3)        - convert string to integer
+strtok (3)           - extract tokens from strings
+strtok_r (3)         - extract tokens from strings
+strtol (3)           - convert a string to a long integer
+strtold (3)          - convert ASCII string to floating-point number
+strtoll (3)          - convert a string to a long integer
+strtoq (3)           - convert a string to a long integer
+strtoul (3)          - convert a string to an unsigned long integer
+strtoull (3)         - convert a string to an unsigned long integer
+strtoumax (3)        - convert string to integer
+strtouq (3)          - convert a string to an unsigned long integer
+strverscmp (3)       - compare two version strings
+strxfrm (3)          - string transformation
+Sub::Name (3pm)      - (Re)name a sub
+svc_destroy (3)      - library routines for remote procedure calls
+svc_freeargs (3)     - library routines for remote procedure calls
+svc_getargs (3)      - library routines for remote procedure calls
+svc_getcaller (3)    - library routines for remote procedure calls
+svc_getreq (3)       - library routines for remote procedure calls
+svc_getreqset (3)    - library routines for remote procedure calls
+svc_register (3)     - library routines for remote procedure calls
+svc_run (3)          - library routines for remote procedure calls
+svc_sendreply (3)    - library routines for remote procedure calls
+svc_unregister (3)   - library routines for remote procedure calls
+svcerr_auth (3)      - library routines for remote procedure calls
+svcerr_decode (3)    - library routines for remote procedure calls
+svcerr_noproc (3)    - library routines for remote procedure calls
+svcerr_noprog (3)    - library routines for remote procedure calls
+svcerr_progvers (3)  - library routines for remote procedure calls
+svcerr_systemerr (3) - library routines for remote procedure calls
+svcerr_weakauth (3)  - library routines for remote procedure calls
+svcfd_create (3)     - library routines for remote procedure calls
+svcraw_create (3)    - library routines for remote procedure calls
+svctcp_create (3)    - library routines for remote procedure calls
+svcudp_bufcreate (3) - library routines for remote procedure calls
+svcudp_create (3)    - library routines for remote procedure calls
+swab (3)             - swap adjacent bytes
+swapcontext (3)      - manipulate user context
+swprintf (3)         - formatted wide-character output conversion
+Sys::Hostname::Long (3pm) - Try every conceivable way to get full hostname
+sys_errlist (3)      - print a system error message
+sys_nerr (3)         - print a system error message
+sysconf (3)          - get configuration information at run time
+syslog (3)           - read and/or clear kernel message ring buffer; set console_loglevel
+system (3)           - execute a shell command
+sysv_signal (3)      - signal handling with System V semantics
+TAILQ_CONCAT (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_EMPTY (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_ENTRY (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_FIRST (3)      - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_FOREACH (3)    - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_FOREACH_REVERSE (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_HEAD (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_HEAD_INITIALIZER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_INIT (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_INSERT_AFTER (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_INSERT_BEFORE (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_INSERT_HEAD (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_INSERT_TAIL (3) - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_LAST (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_NEXT (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_PREV (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_REMOVE (3)     - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+TAILQ_SWAP (3)       - implementations of singly-linked lists, singly-linked tail queues, lists and tail queues
+tan (3)              - tangent function
+tanf (3)             - tangent function
+tanh (3)             - hyperbolic tangent function
+tanhf (3)            - hyperbolic tangent function
+tanhl (3)            - hyperbolic tangent function
+tanl (3)             - tangent function
+tcdrain (3)          - get and set terminal attributes, line control, get and set baud rate
+tcflow (3)           - get and set terminal attributes, line control, get and set baud rate
+tcflush (3)          - get and set terminal attributes, line control, get and set baud rate
+tcgetattr (3)        - get and set terminal attributes, line control, get and set baud rate
+tcgetpgrp (3)        - get and set terminal foreground process group
+tcgetsid (3)         - get session ID
+tcsendbreak (3)      - get and set terminal attributes, line control, get and set baud rate
+tcsetattr (3)        - get and set terminal attributes, line control, get and set baud rate
+tcsetpgrp (3)        - get and set terminal foreground process group
+tdelete (3)          - manage a binary tree
+tdestroy (3)         - manage a binary tree
+telldir (3)          - return current location in directory stream
+tempnam (3)          - create a name for a temporary file
+termios (3)          - get and set terminal attributes, line control, get and set baud rate
+Test::Lintian (3)    - - Check Lintian files for issues
+Test::Lintian::Harness (3) - - Helper tools for t/runtests
+Text::CharWidth (3pm) - Get number of occupied columns of a string on terminal
+Text::Iconv (3pm)    - Perl interface to iconv() codeset conversion function
+Text::Levenshtein (3pm) - calculate the Levenshtein edit distance between two strings
+Text::WrapI18N (3pm) - Line wrapping module with support for multibyte, fullwidth, and combining characters and languages without whitespaces between words
+textdomain (3)       - set domain for future gettext() calls
+tfind (3)            - manage a binary tree
+tgamma (3)           - true gamma function
+tgammaf (3)          - true gamma function
+tgammal (3)          - true gamma function
+Tie::IxHash (3pm)    - ordered associative arrays for Perl
+Time::Zone (3pm)     - - miscellaneous timezone manipulations routines
+timegm (3)           - inverses of gmtime and localtime
+timelocal (3)        - inverses of gmtime and localtime
+timeradd (3)         - timeval operations
+timerclear (3)       - timeval operations
+timercmp (3)         - timeval operations
+timerisset (3)       - timeval operations
+timersub (3)         - timeval operations
+timezone (3)         - initialize time conversion information
+tmpfile (3)          - create a temporary file
+tmpnam (3)           - create a name for a temporary file
+tmpnam_r (3)         - create a name for a temporary file
+toascii (3)          - convert character to ASCII
+tolower (3)          - convert uppercase or lowercase
+tolower_l (3)        - convert uppercase or lowercase
+toupper (3)          - convert uppercase or lowercase
+toupper_l (3)        - convert uppercase or lowercase
+towctrans (3)        - wide-character transliteration
+towlower (3)         - convert a wide character to lowercase
+towlower_l (3)       - convert a wide character to lowercase
+towupper (3)         - convert a wide character to uppercase
+towupper_l (3)       - convert a wide character to uppercase
+trunc (3)            - round to integer, toward zero
+truncf (3)           - round to integer, toward zero
+truncl (3)           - round to integer, toward zero
+Try::Tiny (3pm)      - Minimal try/catch with proper preservation of $@
+tsearch (3)          - manage a binary tree
+ttyname (3)          - return name of a terminal
+ttyname_r (3)        - return name of a terminal
+ttyslot (3)          - find the slot of the current user's terminal in some file
+twalk (3)            - manage a binary tree
+tzname (3)           - initialize time conversion information
+tzset (3)            - initialize time conversion information
+ualarm (3)           - schedule signal after given number of microseconds
+ubuntu-report (3)    - Report metrics from your system, install and upgrades
+ubuntu-report-interactive (3) - Interactive mode, alias to running this tool without any subcommands.
+ubuntu-report-send (3) - Send or opt-out directly from metric reports without interactions
+ubuntu-report-show (3) - Only collect and display metrics without sending
+ulckpwdf (3)         - get shadow password file entry
+ulimit (3)           - get and set user limits
+undocumented (3)     - undocumented library functions
+ungetc (3)           - input of characters and strings
+ungetwc (3)          - push back a wide character onto a FILE stream
+unlocked_stdio (3)   - nonlocking stdio functions
+unlockpt (3)         - unlock a pseudoterminal master/slave pair
+unsetenv (3)         - change or add an environment variable
+updwtmp (3)          - append an entry to the wtmp file
+updwtmpx (3)         - append an entry to the wtmp file
+URI::_punycode (3pm) - encodes Unicode string in Punycode
+URI::data (3pm)      - URI that contains immediate data
+URI::Escape (3pm)    - Percent-encode and percent-decode unsafe characters
+URI::file (3pm)      - URI that maps to local file names
+URI::Heuristic (3pm) - Expand URI using heuristics
+URI::ldap (3pm)      - LDAP Uniform Resource Locators
+URI::QueryParam (3pm) - Additional query methods for URIs
+URI::Split (3pm)     - Parse and compose URI strings
+URI::URL (3pm)       - Uniform Resource Locators
+URI::WithBase (3pm)  - URIs which remember their base
+uselocale (3)        - set/get the locale for the calling thread
+usleep (3)           - suspend execution for microsecond intervals
+utmpname (3)         - access utmp file entries
+utmpxname (3)        - access utmp file entries
+va_arg (3)           - variable argument lists
+va_copy (3)          - variable argument lists
+va_end (3)           - variable argument lists
+va_start (3)         - variable argument lists
+valloc (3)           - allocate aligned memory
+vasprintf (3)        - print to allocated string
+vdprintf (3)         - formatted output conversion
+verr (3)             - formatted error messages
+verrx (3)            - formatted error messages
+versionsort (3)      - scan a directory for matching entries
+vfprintf (3)         - formatted output conversion
+vfscanf (3)          - input format conversion
+vfwprintf (3)        - formatted wide-character output conversion
+vprintf (3)          - formatted output conversion
+vscanf (3)           - input format conversion
+vsnprintf (3)        - formatted output conversion
+vsprintf (3)         - formatted output conversion
+vsscanf (3)          - input format conversion
+vswprintf (3)        - formatted wide-character output conversion
+vsyslog (3)          - send messages to the system logger
+vtimes (3)           - get resource usage
+vwarn (3)            - formatted error messages
+vwarnx (3)           - formatted error messages
+vwprintf (3)         - formatted wide-character output conversion
+warn (3)             - formatted error messages
+warnx (3)            - formatted error messages
+wcpcpy (3)           - copy a wide-character string, returning a pointer to its end
+wcpncpy (3)          - copy a fixed-size string of wide characters, returning a pointer to its end
+wcrtomb (3)          - convert a wide character to a multibyte sequence
+wcscasecmp (3)       - compare two wide-character strings, ignoring case
+wcscat (3)           - concatenate two wide-character strings
+wcschr (3)           - search a wide character in a wide-character string
+wcscmp (3)           - compare two wide-character strings
+wcscpy (3)           - copy a wide-character string
+wcscspn (3)          - search a wide-character string for any of a set of wide characters
+wcsdup (3)           - duplicate a wide-character string
+wcslen (3)           - determine the length of a wide-character string
+wcsncasecmp (3)      - compare two fixed-size wide-character strings, ignoring case
+wcsncat (3)          - concatenate two wide-character strings
+wcsncmp (3)          - compare two fixed-size wide-character strings
+wcsncpy (3)          - copy a fixed-size string of wide characters
+wcsnlen (3)          - determine the length of a fixed-size wide-character string
+wcsnrtombs (3)       - convert a wide-character string to a multibyte string
+wcspbrk (3)          - search a wide-character string for any of a set of wide characters
+wcsrchr (3)          - search a wide character in a wide-character string
+wcsrtombs (3)        - convert a wide-character string to a multibyte string
+wcsspn (3)           - advance in a wide-character string, skipping any of a set of wide characters
+wcsstr (3)           - locate a substring in a wide-character string
+wcstoimax (3)        - convert wide-character string to integer
+wcstok (3)           - split wide-character string into tokens
+wcstombs (3)         - convert a wide-character string to a multibyte string
+wcstoumax (3)        - convert wide-character string to integer
+wcswidth (3)         - determine columns needed for a fixed-size wide-character string
+wctob (3)            - try to represent a wide character as a single byte
+wctomb (3)           - convert a wide character to a multibyte sequence
+wctrans (3)          - wide-character translation mapping
+wctype (3)           - wide-character classification
+wcwidth (3)          - determine columns needed for a wide character
+wmemchr (3)          - search a wide character in a wide-character array
+wmemcmp (3)          - compare two arrays of wide-characters
+wmemcpy (3)          - copy an array of wide-characters
+wmemmove (3)         - copy an array of wide-characters
+wmempcpy (3)         - copy memory area
+wmemset (3)          - fill an array of wide-characters with a constant wide character
+wordexp (3)          - perform word expansion like a posix-shell
+wordfree (3)         - perform word expansion like a posix-shell
+wprintf (3)          - formatted wide-character output conversion
+WWW::RobotRules (3pm) - database of robots.txt-derived permissions
+WWW::RobotRules::AnyDBM_File (3pm) - Persistent RobotRules
+X11::Auth (3pm)      - Perl module to read X11 authority files
+X11::Keysyms (3pm)   - Perl module for names of X11 keysyms
+X11::Protocol (3pm)  - Perl module for the X Window System Protocol, version 11
+X11::Protocol::Connection (3pm) - Perl module abstract base class for X11 client to server connections
+X11::Protocol::Connection::FileHandle (3pm) - Perl module base class for FileHandle-based X11 connections
+X11::Protocol::Connection::INETFH (3pm) - Perl module for FileHandle-based TCP/IP X11 connections
+X11::Protocol::Connection::INETSocket (3pm) - Perl module for IO::Socket::INET-based X11 connections
+X11::Protocol::Connection::Socket (3pm) - Perl module base class for IO::Socket-based X11 connections
+X11::Protocol::Connection::UNIXFH (3pm) - Perl module for FileHandle-based Unix-domain X11 connections
+X11::Protocol::Connection::UNIXSocket (3pm) - Perl module for IO::Socket::UNIX-based X11 connections
+X11::Protocol::Ext::BIG_REQUESTS (3pm) - Perl module for the X11 protocol Big Requests extension
+X11::Protocol::Ext::DPMS (3pm) - Perl module for the X11 Protocol DPMS Extension
+X11::Protocol::Ext::RENDER (3pm) - Perl module for the X Rendering Extension
+X11::Protocol::Ext::SHAPE (3pm) - Perl module for the X11 Protocol Nonrectangular Window Shape Extension
+X11::Protocol::Ext::XC_MISC (3pm) - Perl module for the X11 Protocol XC-MISC Extension
+X11::Protocol::Ext::XFree86_Misc (3pm) - Perl module for the XFree86 Misc Extension
+xcrypt (3)           - RFS password encryption
+xdecrypt (3)         - RFS password encryption
+xdr (3)              - library routines for external data representation
+xdr_accepted_reply (3) - library routines for remote procedure calls
+xdr_array (3)        - library routines for external data representation
+xdr_authunix_parms (3) - library routines for remote procedure calls
+xdr_bool (3)         - library routines for external data representation
+xdr_bytes (3)        - library routines for external data representation
+xdr_callhdr (3)      - library routines for remote procedure calls
+xdr_callmsg (3)      - library routines for remote procedure calls
+xdr_char (3)         - library routines for external data representation
+xdr_destroy (3)      - library routines for external data representation
+xdr_double (3)       - library routines for external data representation
+xdr_enum (3)         - library routines for external data representation
+xdr_float (3)        - library routines for external data representation
+xdr_free (3)         - library routines for external data representation
+xdr_getpos (3)       - library routines for external data representation
+xdr_inline (3)       - library routines for external data representation
+xdr_int (3)          - library routines for external data representation
+xdr_long (3)         - library routines for external data representation
+xdr_opaque (3)       - library routines for external data representation
+xdr_opaque_auth (3)  - library routines for remote procedure calls
+xdr_pmap (3)         - library routines for remote procedure calls
+xdr_pmaplist (3)     - library routines for remote procedure calls
+xdr_pointer (3)      - library routines for external data representation
+xdr_reference (3)    - library routines for external data representation
+xdr_rejected_reply (3) - library routines for remote procedure calls
+xdr_replymsg (3)     - library routines for remote procedure calls
+xdr_setpos (3)       - library routines for external data representation
+xdr_short (3)        - library routines for external data representation
+xdr_string (3)       - library routines for external data representation
+xdr_u_char (3)       - library routines for external data representation
+xdr_u_int (3)        - library routines for external data representation
+xdr_u_long (3)       - library routines for external data representation
+xdr_u_short (3)      - library routines for external data representation
+xdr_union (3)        - library routines for external data representation
+xdr_vector (3)       - library routines for external data representation
+xdr_void (3)         - library routines for external data representation
+xdr_wrapstring (3)   - library routines for external data representation
+xdrmem_create (3)    - library routines for external data representation
+xdrrec_create (3)    - library routines for external data representation
+xdrrec_endofrecord (3) - library routines for external data representation
+xdrrec_eof (3)       - library routines for external data representation
+xdrrec_skiprecord (3) - library routines for external data representation
+xdrstdio_create (3)  - library routines for external data representation
+xencrypt (3)         - RFS password encryption
+XML::LibXML (3pm)    - Perl Binding for libxml2
+XML::LibXML::Attr (3pm) - XML::LibXML Attribute Class
+XML::LibXML::AttributeHash (3pm) - tie an XML::LibXML::Element to a hash to access its attributes
+XML::LibXML::Boolean (3pm) - Boolean true/false values
+XML::LibXML::CDATASection (3pm) - XML::LibXML Class for CDATA Sections
+XML::LibXML::Comment (3pm) - XML::LibXML Comment Class
+XML::LibXML::Common (3pm) - Constants and Character Encoding Routines
+XML::LibXML::Devel (3pm) - makes functions from LibXML.xs available
+XML::LibXML::Document (3pm) - XML::LibXML DOM Document Class
+XML::LibXML::DocumentFragment (3pm) - XML::LibXML's DOM L2 Document Fragment Implementation
+XML::LibXML::DOM (3pm) - XML::LibXML DOM Implementation
+XML::LibXML::Dtd (3pm) - XML::LibXML DTD Handling
+XML::LibXML::Element (3pm) - XML::LibXML Class for Element Nodes
+XML::LibXML::ErrNo (3pm) - Structured Errors This module is based on xmlerror.h libxml2 C header file. It defines symbolic constants for all libxml2 error codes. Currently libxml2 uses over 480 diff...
+XML::LibXML::Error (3pm) - Structured Errors
+XML::LibXML::InputCallback (3pm) - XML::LibXML Class for Input Callbacks
+XML::LibXML::Literal (3pm) - Simple string values.
+XML::LibXML::Namespace (3pm) - XML::LibXML Namespace Implementation
+XML::LibXML::Node (3pm) - Abstract Base Class of XML::LibXML Nodes
+XML::LibXML::NodeList (3pm) - a list of XML document nodes
+XML::LibXML::Number (3pm) - Simple numeric values.
+XML::LibXML::Parser (3pm) - Parsing XML Data with XML::LibXML
+XML::LibXML::Pattern (3pm) - XML::LibXML::Pattern - interface to libxml2 XPath patterns
+XML::LibXML::PI (3pm) - XML::LibXML Processing Instructions
+XML::LibXML::Reader (3pm) - XML::LibXML::Reader - interface to libxml2 pull parser
+XML::LibXML::RegExp (3pm) - XML::LibXML::RegExp - interface to libxml2 regular expressions
+XML::LibXML::RelaxNG (3pm) - RelaxNG Schema Validation
+XML::LibXML::SAX (3pm) - XML::LibXML direct SAX parser
+XML::LibXML::SAX::Builder (3pm) - Building DOM trees from SAX events.
+XML::LibXML::SAX::Generator (3pm) - Generate SAX events from a LibXML tree
+XML::LibXML::Schema (3pm) - XML Schema Validation
+XML::LibXML::Text (3pm) - XML::LibXML Class for Text Nodes
+XML::LibXML::XPathContext (3pm) - XPath Evaluation
+XML::LibXML::XPathExpression (3pm) - XML::LibXML::XPathExpression - interface to libxml2 pre-compiled XPath expressions
+XML::NamespaceSupport (3pm) - A simple generic namespace processor
+XML::Parser (3pm)    - A perl module for parsing XML documents
+XML::Parser::Expat (3pm) - Lowlevel access to James Clark's expat XML parser
+XML::SAX::PurePerl::Reader (3pm) - Abstract Reader factory class
+XML::Parser::Style::Debug (3pm) - Debug style for XML::Parser
+XML::Parser::Style::Objects (3pm) - Objects styler parser
+XML::Parser::Style::Stream (3pm) - Stream style for XML::Parser
+XML::Parser::Style::Subs (3pm) - glue for handling element callbacks
+XML::Parser::Style::Tree (3pm) - Tree style parser
+XML::SAX (3pm)       - Simple API for XML
+XML::SAX::Base (3pm) - Base class SAX Drivers and Filters
+XML::SAX::DocumentLocator (3pm) - Helper class for document locators
+XML::SAX::Exception (3pm) - Exception classes for XML::SAX
+XML::SAX::Expat (3pm) - SAX2 Driver for Expat (XML::Parser)
+XML::SAX::Intro (3pm) - An Introduction to SAX Parsing with Perl
+XML::SAX::ParserFactory (3pm) - Obtain a SAX parser
+XML::SAX::PurePerl (3pm) - Pure Perl XML Parser with SAX2 interface
+XML::Simple (3pm)    - An API for simple XML files
+XML::Simple::FAQ (3pm) - Frequently Asked Questions about XML::Simple
+XML::Twig (3pm)      - A perl module for processing huge XML documents in tree mode.
+XML::XPathEngine (3pm) - a re-usable XPath engine for DOM-like trees
+XML::XPathEngine::Boolean (3pm) - Boolean true/false values
+XML::XPathEngine::Literal (3pm) - Simple string values.
+XML::XPathEngine::NodeSet (3pm) - a list of XML document nodes
+XML::XPathEngine::Number (3pm) - Simple numeric values.
+xprt_register (3)    - library routines for remote procedure calls
+xprt_unregister (3)  - library routines for remote procedure calls
+y0 (3)               - Bessel functions of the second kind
+y0f (3)              - Bessel functions of the second kind
+y0l (3)              - Bessel functions of the second kind
+y1 (3)               - Bessel functions of the second kind
+y1f (3)              - Bessel functions of the second kind
+y1l (3)              - Bessel functions of the second kind
+YAML::LibYAML (3pm)  - Perl YAML Serialization using XS and libyaml
+YAML::XS (3pm)       - Perl YAML Serialization using XS and libyaml
+YAML::XS::LibYAML (3pm) - An XS Wrapper Module of libyaml
+yn (3)               - Bessel functions of the second kind
+ynf (3)              - Bessel functions of the second kind
+ynl (3)              - Bessel functions of the second kind

@@ -1,0 +1,480 @@
+select (2)           - synchronous I/O multiplexing
+_Exit (2)            - terminate the calling process
+__clone2 (2)         - create a child process
+_exit (2)            - terminate the calling process
+_llseek (2)          - reposition read/write file offset
+_newselect (2)       - synchronous I/O multiplexing
+_syscall (2)         - invoking a system call without library support (OBSOLETE)
+_sysctl (2)          - read/write system parameters
+accept (2)           - accept a connection on a socket
+accept4 (2)          - accept a connection on a socket
+access (2)           - check user's permissions for a file
+acct (2)             - switch process accounting on or off
+add_key (2)          - add a key to the kernel's key management facility
+adjtimex (2)         - tune kernel clock
+afs_syscall (2)      - unimplemented system calls
+alarm (2)            - set an alarm clock for delivery of a signal
+alloc_hugepages (2)  - allocate or free huge pages
+arch_prctl (2)       - set architecture-specific thread state
+arm_fadvise (2)      - predeclare an access pattern for file data
+arm_fadvise64_64 (2) - predeclare an access pattern for file data
+arm_sync_file_range (2) - sync a file segment with disk
+bdflush (2)          - start, flush, or tune buffer-dirty-flush daemon
+bind (2)             - bind a name to a socket
+bpf (2)              - perform a command on an extended BPF map or program
+break (2)            - unimplemented system calls
+brk (2)              - change data segment size
+cacheflush (2)       - flush contents of instruction and/or data cache
+capget (2)           - set/get capabilities of thread(s)
+capset (2)           - set/get capabilities of thread(s)
+chdir (2)            - change working directory
+chmod (2)            - change permissions of a file
+chown (2)            - change ownership of a file
+chown32 (2)          - change ownership of a file
+chroot (2)           - change root directory
+clock_getres (2)     - clock and time functions
+clock_gettime (2)    - clock and time functions
+clock_nanosleep (2)  - high-resolution sleep with specifiable clock
+clock_settime (2)    - clock and time functions
+clone (2)            - create a child process
+clone2 (2)           - create a child process
+close (2)            - close a file descriptor
+connect (2)          - initiate a connection on a socket
+copy_file_range (2)  - Copy a range of data from one file to another
+creat (2)            - open and possibly create a file
+create_module (2)    - create a loadable module entry
+delete_module (2)    - unload a kernel module
+dup (2)              - duplicate a file descriptor
+dup2 (2)             - duplicate a file descriptor
+dup3 (2)             - duplicate a file descriptor
+epoll_create (2)     - open an epoll file descriptor
+epoll_create1 (2)    - open an epoll file descriptor
+epoll_ctl (2)        - control interface for an epoll file descriptor
+epoll_pwait (2)      - wait for an I/O event on an epoll file descriptor
+epoll_wait (2)       - wait for an I/O event on an epoll file descriptor
+eventfd (2)          - create a file descriptor for event notification
+eventfd2 (2)         - create a file descriptor for event notification
+execve (2)           - execute program
+execveat (2)         - execute program relative to a directory file descriptor
+exit (2)             - terminate the calling process
+exit_group (2)       - exit all threads in a process
+faccessat (2)        - check user's permissions for a file
+fadvise64 (2)        - predeclare an access pattern for file data
+fadvise64_64 (2)     - predeclare an access pattern for file data
+fallocate (2)        - manipulate file space
+fanotify_init (2)    - create and initialize fanotify group
+fanotify_mark (2)    - add, remove, or modify an fanotify mark on a filesystem object
+fattach (2)          - unimplemented system calls
+fchdir (2)           - change working directory
+fchmod (2)           - change permissions of a file
+fchmodat (2)         - change permissions of a file
+fchown (2)           - change ownership of a file
+fchown32 (2)         - change ownership of a file
+fchownat (2)         - change ownership of a file
+fcntl (2)            - manipulate file descriptor
+fcntl64 (2)          - manipulate file descriptor
+fdatasync (2)        - synchronize a file's in-core state with storage device
+fdetach (2)          - unimplemented system calls
+finit_module (2)     - load a kernel module
+flock (2)            - apply or remove an advisory lock on an open file
+fork (2)             - create a child process
+free_hugepages (2)   - allocate or free huge pages
+fstat (2)            - get file status
+fstat64 (2)          - get file status
+fstatat (2)          - get file status
+fstatat64 (2)        - get file status
+fstatfs (2)          - get filesystem statistics
+fstatfs64 (2)        - get filesystem statistics
+fstatvfs (2)         - get filesystem statistics
+fsync (2)            - synchronize a file's in-core state with storage device
+security (2)         - unimplemented system calls
+ftruncate (2)        - truncate a file to a specified length
+ftruncate64 (2)      - truncate a file to a specified length
+futex (2)            - fast user-space locking
+futimesat (2)        - change timestamps of a file relative to a directory file descriptor
+getcwd (2)           - get current working directory
+get_kernel_syms (2)  - retrieve exported kernel and module symbols
+get_mempolicy (2)    - retrieve NUMA memory policy for a thread
+get_robust_list (2)  - get/set list of robust futexes
+get_thread_area (2)  - set a GDT entry for thread-local storage
+getcontext (2)       - get or set the user context
+getcpu (2)           - determine CPU and NUMA node on which the calling thread is running
+getdents (2)         - get directory entries
+getdents64 (2)       - get directory entries
+getdomainname (2)    - get/set NIS domain name
+getdtablesize (2)    - get file descriptor table size
+getegid (2)          - get group identity
+getegid32 (2)        - get group identity
+geteuid (2)          - get user identity
+geteuid32 (2)        - get user identity
+getgid (2)           - get group identity
+getgid32 (2)         - get group identity
+getgroups (2)        - get/set list of supplementary group IDs
+getgroups32 (2)      - get/set list of supplementary group IDs
+gethostid (2)        - get or set the unique identifier of the current host
+gethostname (2)      - get/set hostname
+getitimer (2)        - get or set value of an interval timer
+getmsg (2)           - unimplemented system calls
+getpagesize (2)      - get memory page size
+getpeername (2)      - get name of connected peer socket
+getpgid (2)          - set/get process group
+getpgrp (2)          - set/get process group
+getpid (2)           - get process identification
+getpmsg (2)          - unimplemented system calls
+getppid (2)          - get process identification
+getpriority (2)      - get/set program scheduling priority
+getrandom (2)        - obtain a series of random bytes
+getresgid (2)        - get real, effective and saved user/group IDs
+getresgid32 (2)      - get real, effective and saved user/group IDs
+getresuid (2)        - get real, effective and saved user/group IDs
+getresuid32 (2)      - get real, effective and saved user/group IDs
+getrlimit (2)        - get/set resource limits
+getrusage (2)        - get resource usage
+getsid (2)           - get session ID
+getsockname (2)      - get socket name
+getsockopt (2)       - get and set options on sockets
+gettid (2)           - get thread identification
+gettimeofday (2)     - get / set time
+getuid (2)           - get user identity
+getuid32 (2)         - get user identity
+getunwind (2)        - copy the unwind data to caller's buffer
+gtty (2)             - unimplemented system calls
+idle (2)             - make process 0 idle
+inb (2)              - port I/O
+inb_p (2)            - port I/O
+init_module (2)      - load a kernel module
+inl (2)              - port I/O
+inl_p (2)            - port I/O
+inotify_add_watch (2) - add a watch to an initialized inotify instance
+inotify_init (2)     - initialize an inotify instance
+inotify_init1 (2)    - initialize an inotify instance
+inotify_rm_watch (2) - remove an existing watch from an inotify instance
+insb (2)             - port I/O
+insl (2)             - port I/O
+insw (2)             - port I/O
+intro (2)            - introduction to system calls
+inw (2)              - port I/O
+inw_p (2)            - port I/O
+io_cancel (2)        - cancel an outstanding asynchronous I/O operation
+io_destroy (2)       - destroy an asynchronous I/O context
+io_getevents (2)     - read asynchronous I/O events from the completion queue
+io_setup (2)         - create an asynchronous I/O context
+io_submit (2)        - submit asynchronous I/O blocks for processing
+ioctl (2)            - control device
+ioctl_console (2)    - ioctls for console terminal and virtual consoles
+ioctl_fat (2)        - manipulating the FAT filesystem
+ioctl_ficlone (2)    - share some the data of one file with another file
+ioctl_ficlonerange (2) - share some the data of one file with another file
+ioctl_fideduperange (2) - share some the data of one file with another file
+ioctl_getfsmap (2)   - retrieve the physical layout of the filesystem
+ioctl_iflags (2)     - ioctl() operations for inode flags
+ioctl_list (2)       - list of ioctl calls in Linux/i386 kernel
+ioctl_ns (2)         - ioctl() operations for Linux namespaces
+ioctl_tty (2)        - ioctls for terminals and serial lines
+ioctl_userfaultfd (2) - create a file descriptor for handling page faults in user space
+ioperm (2)           - set port input/output permissions
+iopl (2)             - change I/O privilege level
+ioprio_get (2)       - get/set I/O scheduling class and priority
+ioprio_set (2)       - get/set I/O scheduling class and priority
+ipc (2)              - System V IPC system calls
+isastream (2)        - unimplemented system calls
+kcmp (2)             - compare two processes to determine if they share a kernel resource
+kexec_file_load (2)  - load a new kernel for later execution
+kexec_load (2)       - load a new kernel for later execution
+keyctl (2)           - manipulate the kernel's key management facility
+kill (2)             - send signal to a process
+killpg (2)           - send signal to a process group
+lchown (2)           - change ownership of a file
+lchown32 (2)         - change ownership of a file
+link (2)             - make a new name for a file
+linkat (2)           - make a new name for a file
+listen (2)           - listen for connections on a socket
+llseek (2)           - reposition read/write file offset
+lock (2)             - unimplemented system calls
+lookup_dcookie (2)   - return a directory entry's path
+lseek (2)            - reposition read/write file offset
+lstat (2)            - get file status
+lstat64 (2)          - get file status
+madvise (2)          - give advice about use of memory
+madvise1 (2)         - unimplemented system calls
+mbind (2)            - set memory policy for a memory range
+membarrier (2)       - issue memory barriers on a set of threads
+memfd_create (2)     - create an anonymous file
+migrate_pages (2)    - move all pages in a process to another set of nodes
+mincore (2)          - determine whether pages are resident in memory
+mkdir (2)            - create a directory
+mkdirat (2)          - create a directory
+mknod (2)            - create a special or ordinary file
+mknodat (2)          - create a special or ordinary file
+mlock (2)            - lock and unlock memory
+mlock2 (2)           - lock and unlock memory
+mlockall (2)         - lock and unlock memory
+mmap (2)             - map or unmap files or devices into memory
+mmap2 (2)            - map files or devices into memory
+modify_ldt (2)       - get or set a per-process LDT entry
+mount (2)            - mount filesystem
+move_pages (2)       - move individual pages of a process to another node
+mprotect (2)         - set protection on a region of memory
+mpx (2)              - unimplemented system calls
+mq_getsetattr (2)    - get/set message queue attributes
+mq_notify (2)        - register for notification when a message is available
+mq_open (2)          - open a message queue
+mq_timedreceive (2)  - receive a message from a message queue
+mq_timedsend (2)     - send a message to a message queue
+mq_unlink (2)        - remove a message queue
+mremap (2)           - remap a virtual memory address
+msgctl (2)           - System V message control operations
+msgget (2)           - get a System V message queue identifier
+msgop (2)            - System V message queue operations
+msgrcv (2)           - System V message queue operations
+msgsnd (2)           - System V message queue operations
+msync (2)            - synchronize a file with a memory map
+munlock (2)          - lock and unlock memory
+munlockall (2)       - lock and unlock memory
+munmap (2)           - map or unmap files or devices into memory
+name_to_handle_at (2) - obtain handle for a pathname and open file via a handle
+nanosleep (2)        - high-resolution sleep
+newfstatat (2)       - get file status
+nfsservctl (2)       - syscall interface to kernel nfs daemon
+nice (2)             - change process priority
+oldfstat (2)         - get file status
+oldlstat (2)         - get file status
+oldolduname (2)      - get name and information about current kernel
+oldstat (2)          - get file status
+olduname (2)         - get name and information about current kernel
+open (2)             - open and possibly create a file
+open_by_handle_at (2) - obtain handle for a pathname and open file via a handle
+openat (2)           - open and possibly create a file
+outb (2)             - port I/O
+outb_p (2)           - port I/O
+outl (2)             - port I/O
+outl_p (2)           - port I/O
+outsb (2)            - port I/O
+outsl (2)            - port I/O
+outsw (2)            - port I/O
+outw (2)             - port I/O
+outw_p (2)           - port I/O
+pause (2)            - wait for signal
+pciconfig_iobase (2) - pci device information handling
+pciconfig_read (2)   - pci device information handling
+pciconfig_write (2)  - pci device information handling
+perf_event_open (2)  - set up performance monitoring
+perfmonctl (2)       - interface to IA-64 performance monitoring unit
+personality (2)      - set the process execution domain
+phys (2)             - unimplemented system calls
+pipe (2)             - create pipe
+pipe2 (2)            - create pipe
+pivot_root (2)       - change the root filesystem
+pkey_alloc (2)       - allocate or free a protection key
+pkey_free (2)        - allocate or free a protection key
+pkey_mprotect (2)    - set protection on a region of memory
+poll (2)             - wait for some event on a file descriptor
+posix_fadvise (2)    - predeclare an access pattern for file data
+ppoll (2)            - wait for some event on a file descriptor
+prctl (2)            - operations on a process
+pread (2)            - read from or write to a file descriptor at a given offset
+pread64 (2)          - read from or write to a file descriptor at a given offset
+preadv (2)           - read or write data into multiple buffers
+preadv2 (2)          - read or write data into multiple buffers
+prlimit (2)          - get/set resource limits
+prlimit64 (2)        - get/set resource limits
+process_vm_readv (2) - transfer data between process address spaces
+process_vm_writev (2) - transfer data between process address spaces
+prof (2)             - unimplemented system calls
+pselect (2)          - synchronous I/O multiplexing
+pselect6 (2)         - synchronous I/O multiplexing
+ptrace (2)           - process trace
+putmsg (2)           - unimplemented system calls
+putpmsg (2)          - unimplemented system calls
+pwrite (2)           - read from or write to a file descriptor at a given offset
+pwrite64 (2)         - read from or write to a file descriptor at a given offset
+pwritev (2)          - read or write data into multiple buffers
+pwritev2 (2)         - read or write data into multiple buffers
+query_module (2)     - query the kernel for various bits pertaining to modules
+quotactl (2)         - manipulate disk quotas
+read (2)             - read from a file descriptor
+readahead (2)        - initiate file readahead into page cache
+readdir (2)          - read directory entry
+readlink (2)         - read value of a symbolic link
+readlinkat (2)       - read value of a symbolic link
+readv (2)            - read or write data into multiple buffers
+reboot (2)           - reboot or enable/disable Ctrl-Alt-Del
+recv (2)             - receive a message from a socket
+recvfrom (2)         - receive a message from a socket
+recvmmsg (2)         - receive multiple messages on a socket
+recvmsg (2)          - receive a message from a socket
+remap_file_pages (2) - create a nonlinear file mapping
+rename (2)           - change the name or location of a file
+renameat (2)         - change the name or location of a file
+renameat2 (2)        - change the name or location of a file
+request_key (2)      - request a key from the kernel's key management facility
+restart_syscall (2)  - restart a system call after interruption by a stop signal
+rmdir (2)            - delete a directory
+rt_sigaction (2)     - examine and change a signal action
+rt_sigpending (2)    - examine pending signals
+rt_sigprocmask (2)   - examine and change blocked signals
+rt_sigqueueinfo (2)  - queue a signal and data
+rt_sigreturn (2)     - return from signal handler and cleanup stack frame
+rt_sigsuspend (2)    - wait for a signal
+rt_sigtimedwait (2)  - synchronously wait for queued signals
+rt_tgsigqueueinfo (2) - queue a signal and data
+s390_pci_mmio_read (2) - transfer data to/from PCI MMIO memory page
+s390_pci_mmio_write (2) - transfer data to/from PCI MMIO memory page
+s390_runtime_instr (2) - enable/disable s390 CPU run-time instrumentation
+s390_sthyi (2)       - emulate STHYI instruction
+sbrk (2)             - change data segment size
+sched_get_priority_max (2) - get static priority range
+sched_get_priority_min (2) - get static priority range
+sched_getaffinity (2) - set and get a thread's CPU affinity mask
+sched_getattr (2)    - set and get scheduling policy and attributes
+sched_getparam (2)   - set and get scheduling parameters
+sched_getscheduler (2) - set and get scheduling policy/parameters
+sched_rr_get_interval (2) - get the SCHED_RR interval for the named process
+sched_setaffinity (2) - set and get a thread's CPU affinity mask
+sched_setattr (2)    - set and get scheduling policy and attributes
+sched_setparam (2)   - set and get scheduling parameters
+sched_setscheduler (2) - set and get scheduling policy/parameters
+sched_yield (2)      - yield the processor
+seccomp (2)          - operate on Secure Computing state of the process
+select_tut (2)       - synchronous I/O multiplexing
+semctl (2)           - System V semaphore control operations
+semget (2)           - get a System V semaphore set identifier
+semop (2)            - System V semaphore operations
+semtimedop (2)       - System V semaphore operations
+send (2)             - send a message on a socket
+sendfile (2)         - transfer data between file descriptors
+sendfile64 (2)       - transfer data between file descriptors
+sendmmsg (2)         - send multiple messages on a socket
+sendmsg (2)          - send a message on a socket
+sendto (2)           - send a message on a socket
+set_mempolicy (2)    - set default NUMA memory policy for a thread and its children
+set_robust_list (2)  - get/set list of robust futexes
+set_thread_area (2)  - set a GDT entry for thread-local storage
+set_tid_address (2)  - set pointer to thread ID
+setcontext (2)       - get or set the user context
+setdomainname (2)    - get/set NIS domain name
+setegid (2)          - set effective user or group ID
+seteuid (2)          - set effective user or group ID
+setfsgid (2)         - set group identity used for filesystem checks
+setfsgid32 (2)       - set group identity used for filesystem checks
+setfsuid (2)         - set user identity used for filesystem checks
+setfsuid32 (2)       - set user identity used for filesystem checks
+setgid (2)           - set group identity
+setgid32 (2)         - set group identity
+setgroups (2)        - get/set list of supplementary group IDs
+setgroups32 (2)      - get/set list of supplementary group IDs
+sethostid (2)        - get or set the unique identifier of the current host
+sethostname (2)      - get/set hostname
+setitimer (2)        - get or set value of an interval timer
+setns (2)            - reassociate thread with a namespace
+setpgid (2)          - set/get process group
+setpgrp (2)          - set/get process group
+setpriority (2)      - get/set program scheduling priority
+setregid (2)         - set real and/or effective user or group ID
+setregid32 (2)       - set real and/or effective user or group ID
+setresgid (2)        - set real, effective and saved user or group ID
+setresgid32 (2)      - set real, effective and saved user or group ID
+setresuid (2)        - set real, effective and saved user or group ID
+setresuid32 (2)      - set real, effective and saved user or group ID
+setreuid (2)         - set real and/or effective user or group ID
+setreuid32 (2)       - set real and/or effective user or group ID
+setrlimit (2)        - get/set resource limits
+setsid (2)           - creates a session and sets the process group ID
+setsockopt (2)       - get and set options on sockets
+settimeofday (2)     - get / set time
+setuid (2)           - set user identity
+setuid32 (2)         - set user identity
+setup (2)            - setup devices and filesystems, mount root filesystem
+sgetmask (2)         - manipulation of signal mask (obsolete)
+shmat (2)            - System V shared memory operations
+shmctl (2)           - System V shared memory control
+shmdt (2)            - System V shared memory operations
+shmget (2)           - allocates a System V shared memory segment
+shmop (2)            - System V shared memory operations
+shutdown (2)         - shut down part of a full-duplex connection
+sigaction (2)        - examine and change a signal action
+sigaltstack (2)      - set and/or get signal stack context
+signal (2)           - ANSI C signal handling
+signalfd (2)         - create a file descriptor for accepting signals
+signalfd4 (2)        - create a file descriptor for accepting signals
+sigpending (2)       - examine pending signals
+sigprocmask (2)      - examine and change blocked signals
+sigqueue (2)         - queue a signal and data to a process
+sigreturn (2)        - return from signal handler and cleanup stack frame
+sigsuspend (2)       - wait for a signal
+sigtimedwait (2)     - synchronously wait for queued signals
+sigwaitinfo (2)      - synchronously wait for queued signals
+socket (2)           - create an endpoint for communication
+socketcall (2)       - socket system calls
+socketpair (2)       - create a pair of connected sockets
+splice (2)           - splice data to/from a pipe
+spu_create (2)       - create a new spu context
+spu_run (2)          - execute an SPU context
+ssetmask (2)         - manipulation of signal mask (obsolete)
+stat (2)             - get file status
+stat64 (2)           - get file status
+statfs (2)           - get filesystem statistics
+statfs64 (2)         - get filesystem statistics
+statvfs (2)          - get filesystem statistics
+statx (2)            - get file status (extended)
+stime (2)            - set time
+stty (2)             - unimplemented system calls
+subpage_prot (2)     - define a subpage protection for an address range
+swapoff (2)          - start/stop swapping to file/device
+swapon (2)           - start/stop swapping to file/device
+symlink (2)          - make a new name for a file
+symlinkat (2)        - make a new name for a file
+sync (2)             - commit filesystem caches to disk
+sync_file_range (2)  - sync a file segment with disk
+sync_file_range2 (2) - sync a file segment with disk
+syncfs (2)           - commit filesystem caches to disk
+syscall (2)          - indirect system call
+syscalls (2)         - Linux system calls
+sysctl (2)           - read/write system parameters
+sysfs (2)            - get filesystem type information
+sysinfo (2)          - return system information
+syslog (2)           - read and/or clear kernel message ring buffer; set console_loglevel
+tee (2)              - duplicating pipe content
+tgkill (2)           - send a signal to a thread
+time (2)             - get time in seconds
+timer_create (2)     - create a POSIX per-process timer
+timer_delete (2)     - delete a POSIX per-process timer
+timer_getoverrun (2) - get overrun count for a POSIX per-process timer
+timer_gettime (2)    - arm/disarm and fetch state of POSIX per-process timer
+timer_settime (2)    - arm/disarm and fetch state of POSIX per-process timer
+timerfd_create (2)   - timers that notify via file descriptors
+timerfd_gettime (2)  - timers that notify via file descriptors
+timerfd_settime (2)  - timers that notify via file descriptors
+times (2)            - get process times
+tkill (2)            - send a signal to a thread
+truncate (2)         - truncate a file to a specified length
+truncate64 (2)       - truncate a file to a specified length
+tuxcall (2)          - unimplemented system calls
+ugetrlimit (2)       - get/set resource limits
+umask (2)            - set file mode creation mask
+umount (2)           - unmount filesystem
+umount2 (2)          - unmount filesystem
+uname (2)            - get name and information about current kernel
+unimplemented (2)    - unimplemented system calls
+unlink (2)           - delete a name and possibly the file it refers to
+unlinkat (2)         - delete a name and possibly the file it refers to
+unshare (2)          - disassociate parts of the process execution context
+uselib (2)           - load shared library
+userfaultfd (2)      - create a file descriptor for handling page faults in user space
+ustat (2)            - get filesystem statistics
+utime (2)            - change file last access and modification times
+utimensat (2)        - change file timestamps with nanosecond precision
+utimes (2)           - change file last access and modification times
+vfork (2)            - create a child process and block parent
+vhangup (2)          - virtually hangup the current terminal
+vm86 (2)             - enter virtual 8086 mode
+vm86old (2)          - enter virtual 8086 mode
+vmsplice (2)         - splice user pages into a pipe
+vserver (2)          - unimplemented system calls
+wait (2)             - wait for process to change state
+wait3 (2)            - wait for process to change state, BSD style
+wait4 (2)            - wait for process to change state, BSD style
+waitid (2)           - wait for process to change state
+waitpid (2)          - wait for process to change state
+write (2)            - write to a file descriptor
+writev (2)           - read or write data into multiple buffers
